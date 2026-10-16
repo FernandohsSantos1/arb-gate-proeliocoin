@@ -1,0 +1,12 @@
+{
+	"id": "arb-test-b",
+	"domain": "site-b.example",
+	"name": "ClickVerso",
+	"cms_domain": "clickverso.net",
+	"cdn_domain": "cdn.clickverso.net",
+	"analytics": false,
+	"observe_only": true,
+	"experiment": "fingerprint-v1",
+	"revision": 1,
+	"fingerprint": true
+}

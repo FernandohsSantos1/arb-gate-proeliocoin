@@ -1,5 +1,7 @@
 # Projeto B
 
+O [plano do test-b](LANCAMENTO.md) descreve a modal de continuação: o clique abre o `/v/` do mesmo produto no parceiro. O rewarded real fica no destino. Esse desenho ainda não foi implementado. As pendências de conversão estão no [contrato de medição Google](../adspect/docs/medicao-google.md).
+
 Domínio provisório: `site-b.example`. Stream próprio, com fingerprint e treinamento VLA. Conteúdo e destino independem da classificação Adspect.
 
 Edite a identidade em [site.json](site.json). O código e os assets ficam em `../arb-test-base/`, independente do Clickverso publicado. Mantenha as duas pastas irmãs.

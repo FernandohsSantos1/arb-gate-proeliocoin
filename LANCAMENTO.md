@@ -11,7 +11,7 @@ O nome “rewarded” descreve a modal de continuação. O B não precisa exibir
 - [x] Projeto B com stream próprio e fingerprint habilitado.
 - [x] Código atual identificado: o B ainda usa `../arb-test-base/`.
 - [x] Confirmado o gatilho desejado de navegação: clique no botão da modal.
-- [x] Reutilizar os [12 artigos e slugs selecionados](../arb-test-a/LANCAMENTO.md#slugs-selecionadas-para-o-próximo-teste), todos existentes no pool: quatro em `pt`, quatro em `en` e quatro em `es`.
+- [x] Reutilizar os [12 artigos e slugs selecionados](../arb-test-a/LANCAMENTO.md#slugs-selecionadas-para-o-próximo-teste), já publicados em domínios participantes do pool: quatro cursos distintos em cada idioma (`pt`, `en` e `es`).
 - [ ] Definir domínio e identidade do B; `site-b.example` continua sendo placeholder.
 
 O B ainda não foi publicado. A modal descrita aqui ainda não existe na implementação atual. A classificação Adspect não muda conteúdo ou destino no código atual.
@@ -22,7 +22,7 @@ O B ainda não foi publicado. A modal descrita aqui ainda não existe na impleme
 flowchart TD
     E["Entrada /r/ no domínio B"] --> P["Artigo do produto e modal de continuação"]
     P -->|"Fechar modal"| L["Permanecer no artigo local"]
-    P -->|"Clicar no botão"| Q["Consultar candidatos do pool High Offers"]
+    P -->|"Clicar no botão"| Q["Consultar domínios do pool e artigos publicados do produto"]
     Q --> V{"Mesmo produto, oferta, idioma e destino válido?"}
     V -->|"Não ou erro"| F["Aviso local; sem saída para outro produto"]
     V -->|"Sim"| D["Abrir /v/ no domínio monetizado com os parâmetros preservados"]
@@ -53,8 +53,8 @@ Conteúdo, produto e possibilidade de continuação devem permanecer consistente
 - [ ] B09. Preparar um catálogo próprio ou outra organização que não altere o A, a base ou o Clickverso.
 - [ ] B10. Referenciar no B os 12 artigos publicados, com seus domínios, IDs e idiomas. Não criar ou traduzir artigos para o piloto.
 - [ ] B11. Definir país e cluster de cada grupo de teste.
-- [ ] B12. Revalidar os artigos selecionados no pool com os países finais. Se faltar um caso, escolher outro já publicado no pool.
-- [ ] B13. Especificar a consulta ao pool somente após o clique; não disparar navegação na entrada.
+- [ ] B12. Revalidar os artigos selecionados e os domínios participantes com os países finais. Se faltar um caso, escolher outro curso já publicado nesses domínios.
+- [ ] B13. Especificar a consulta aos domínios participantes e ao inventário do produto somente após o clique; não limitar a seleção às URLs escolhidas pelo High Offers.
 - [ ] B14. Especificar a validação de produto, oferta, idioma, publicação, domínio e slug.
 - [ ] B15. Especificar HTTPS, caminho `/v/`, HTTP 200 e HTML, sem seguir redirects na validação.
 - [ ] B16. Preservar os parâmetros aceitos de campanha e clique sem aceitar um destino fornecido pelo visitante.

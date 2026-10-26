@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{seo_title}}</title>
+        <link rel="canonical" href="{{seo_url}}">
+        <meta name="description" content="{{seo_description}}">
+        <meta property="og:title" content="{{seo_title}}">
+        <meta property="og:description" content="{{seo_description}}">
+        <meta property="og:image" content="{{seo_image}}">
+        <meta property="og:url" content="{{seo_url}}">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="{{lang}}">
+        <link rel="stylesheet" href="/public/css/index.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <header class="site-header" id="site-header">
+            <div class="container header-container">
+                <a href="/" class="logo">
+                    <img src="/public/img/logo.svg" width="171" height="40" alt="{{logo_alt}}">
+                </a>
+                <nav class="main-nav" id="main-nav" aria-label="{{header_menu_label}}">
+                    <form class="mobile-search-form search-form" id="search-form" role="search" aria-label="{{header_search_label}}" action="/search/" method="get">
+                        <input type="text" id="search-input-mobile" name="q" required placeholder="{{search_placeholder}}..." aria-label="{{search_placeholder}}">
+                        <button type="submit" id="search-btn-mobile">{{search_action}}</button>
+                    </form>
+                    <ul class="main-nav__list">
+                        {{menu}}
+                    </ul>
+                </nav>
+                <div class="header-search">
+                    <form class="search-form" id="search-form-desktop" role="search" aria-label="{{header_search_label}}" action="/search/" method="get">
+                        <input type="text" id="search-input-desktop" name="q" required placeholder="{{search_placeholder}}..." aria-label="{{search_placeholder}}">
+                        <button type="submit" id="search-btn-desktop">{{search_action}}</button>
+                    </form>
+                </div>
+            </div>
+        </header>

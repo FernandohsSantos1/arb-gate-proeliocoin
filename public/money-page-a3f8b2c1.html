@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Curso de Marketing Digital</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%);
+            min-height: 100vh; color: #1a202c; line-height: 1.6;
+        }
+        #loader {
+            position: fixed; inset: 0; background: #fff;
+            display: flex; align-items: center; justify-content: center;
+            z-index: 9999; transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
+        #loader.hidden { opacity: 0; visibility: hidden; }
+        #loader .spinner {
+            width: 48px; height: 48px; border: 4px solid #e5e7eb; border-top-color: #3b82f6;
+            border-radius: 50%; animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .container { max-width: 720px; margin: 0 auto; padding: 40px 24px; }
+        header { text-align: center; margin-bottom: 40px; }
+        .badge {
+            display: inline-block; background: #dbeafe; color: #1e40af;
+            padding: 6px 16px; border-radius: 9999px; font-size: 13px;
+            font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+        h1 { font-size: 32px; font-weight: 700; color: #111827; line-height: 1.25; margin-bottom: 16px; }
+        .subtitle { font-size: 18px; color: #6b7280; }
+        .card {
+            background: #fff; border-radius: 16px; padding: 32px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+            margin-bottom: 24px;
+        }
+        .card h2 { font-size: 20px; font-weight: 600; color: #111827; margin-bottom: 12px; }
+        .card p { color: #4b5563; font-size: 15px; margin-bottom: 16px; }
+        .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 24px 0; }
+        .feature { background: #f9fafb; padding: 20px; border-radius: 12px; text-align: center; }
+        .feature-icon {
+            width: 48px; height: 48px; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+            border-radius: 12px; display: flex; align-items: center; justify-content: center;
+            margin: 0 auto 12px; font-size: 24px;
+        }
+        .feature h3 { font-size: 14px; font-weight: 600; color: #111827; margin-bottom: 4px; }
+        .feature p { font-size: 13px; color: #6b7280; margin: 0; }
+        .cta-box {
+            background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+            border-radius: 16px; padding: 32px; text-align: center; color: #fff;
+            box-shadow: 0 10px 25px -5px rgba(59, 130, 246, 0.4);
+        }
+        .cta-box h3 { font-size: 22px; font-weight: 700; margin-bottom: 12px; }
+        .cta-box p { font-size: 15px; opacity: 0.9; margin-bottom: 24px; }
+        .cta-btn {
+            display: inline-flex; align-items: center; gap: 12px;
+            background: #fff; color: #2563eb; padding: 16px 32px;
+            border-radius: 12px; font-size: 16px; font-weight: 600;
+            text-decoration: none; border: none; cursor: pointer;
+            transition: all 0.2s ease; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.2);
+        }
+        .cta-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px -1px rgba(0,0,0,0.25); }
+        .cta-btn:active { transform: translateY(0); }
+        .cta-btn.disabled { opacity: 0.7; cursor: not-allowed; }
+        .cta-btn.disabled:hover { transform: none; }
+        .btn-spinner {
+            width: 20px; height: 20px;
+            border: 3px solid rgba(37, 99, 235, 0.3); border-top-color: #2563eb;
+            border-radius: 50%; animation: spin 0.6s linear infinite; display: none;
+        }
+        .btn-spinner.show { display: block; }
+        .error-msg {
+            background: #fef2f2; border: 1px solid #fecaca; color: #991b1b;
+            padding: 12px 16px; border-radius: 8px; font-size: 14px; margin-top: 16px; display: none;
+        }
+        .error-msg.show { display: block; }
+        footer { text-align: center; padding: 32px; color: #9ca3af; font-size: 14px; }
+        @media (max-width: 640px) {
+            .container { padding: 24px 16px; }
+            h1 { font-size: 24px; }
+            .subtitle { font-size: 16px; }
+            .card { padding: 24px; }
+            .cta-box { padding: 24px 20px; }
+            .cta-box h3 { font-size: 18px; }
+            .cta-btn { padding: 14px 24px; font-size: 15px; }
+        }
+    </style>
+</head>
+<body>
+    <div id="loader"><div class="spinner"></div></div>
+
+    <div class="container">
+        <header>
+            <span class="badge">Curso Disponível</span>
+            <h1 id="article-title">Curso de Marketing Digital Orango Senac</h1>
+            <p class="subtitle">Domine as estratégias digitais e impulsione sua carreira</p>
+        </header>
+
+        <div class="card">
+            <h2>O que você vai aprender</h2>
+            <p>Este curso completo abrange todos os pilares do marketing digital moderno, preparando você para criar campanhas eficazes e medir resultados com precisão.</p>
+
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">📱</div>
+                    <h3>Redes Sociais</h3>
+                    <p>Estratégias para Instagram, Facebook e LinkedIn</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">🔍</div>
+                    <h3>SEO</h3>
+                    <p>Otimização para mecanismos de busca</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📊</div>
+                    <h3>Análise de Dados</h3>
+                    <p>Métricas e KPIs que importam</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Ads Online</h3>
+                    <p>Google Ads e Facebook Ads</p>
+                </div>
+            </div>
+
+            <h2 style="margin-top: 24px;">Para quem é este curso</h2>
+            <p>Ideal para empreendedores, profissionais de marketing, estudantes e freelancers que desejam dominar o marketing digital e aplicar na prática.</p>
+
+            <h2 style="margin-top: 24px;">Certificado inclusivo</h2>
+            <p>Ao concluir, você receberá um certificado reconhecido pelo mercado, um diferencial importante para sua carreira.</p>
+        </div>
+
+        <div class="cta-box">
+            <h3>Pronto para começar?</h3>
+            <p>Clique abaixo para continuar sua inscrição e garantir sua vaga</p>
+            <button id="cta-btn" class="cta-btn">
+                <span id="btn-text">Continuar inscrição</span>
+                <span id="btn-arrow">→</span>
+                <span class="btn-spinner" id="btn-spinner"></span>
+            </button>
+            <div class="error-msg" id="error-msg"></div>
+        </div>
+    </div>
+
+    <footer><p>© 2026 — Todos os direitos reservados</p></footer>
+
+    <script>
+        (function() {
+            const config = window.MONEY_PAGE_CONFIG || {};
+            const endpoint = config.endpoint || '/go/metaoffers/' + (config.sourceId || '38698') + '/' + (config.lang || 'pt') + '/';
+
+            if (config.article) {
+                document.getElementById('article-title').textContent = config.article.title || document.getElementById('article-title').textContent;
+            }
+
+            window.addEventListener('load', () => {
+                setTimeout(() => document.getElementById('loader').classList.add('hidden'), 300);
+            });
+
+            document.getElementById('cta-btn').addEventListener('click', async function() {
+                const btn = this;
+                const btnText = document.getElementById('btn-text');
+                const btnArrow = document.getElementById('btn-arrow');
+                const btnSpinner = document.getElementById('btn-spinner');
+                const errorMsg = document.getElementById('error-msg');
+
+                btn.classList.add('disabled');
+                btnText.textContent = 'Carregando...';
+                btnArrow.style.display = 'none';
+                btnSpinner.classList.add('show');
+                errorMsg.classList.remove('show');
+
+                try {
+                    const response = await fetch(endpoint, {
+                        method: 'GET',
+                        headers: { 'Accept': 'application/json' },
+                        credentials: 'same-origin',
+                        redirect: 'error'
+                    });
+
+                    if (!response.ok) throw new Error('Unavailable');
+                    const data = await response.json();
+
+                    if (data.url) {
+                        window.location.href = data.url;
+                    } else {
+                        throw new Error('Invalid');
+                    }
+                } catch (error) {
+                    btn.classList.remove('disabled');
+                    btnText.textContent = 'Continuar inscrição';
+                    btnArrow.style.display = 'inline';
+                    btnSpinner.classList.remove('show');
+                    errorMsg.textContent = 'Não foi possível carregar. Tente novamente.';
+                    errorMsg.classList.add('show');
+                    console.error('Error:', error);
+                }
+            });
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,402 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-26T11:19:57.599Z",
+  "brand": "Proeliocoin",
+  "catalog_sha256": "35f932a34557815a8b64793e118f871860201c405f9f1ba8b5d05c3bba47045a",
+  "logo": {
+    "source_file": "public/img/logo.svg",
+    "sha256": "3e0f1cea0b54355f0f60b5e36cfe28ea43ada4c4304993753ea15d9b93d48b30",
+    "width": 240,
+    "height": 56,
+    "raster_width": 1200,
+    "raster_height": 280
+  },
+  "processing": {
+    "algorithm": "guideflow-badge-swap-v1",
+    "sharp": "0.35.5",
+    "pillow": "10.2.0",
+    "script_sha256": "620364961e637f3af4e5a3cd096c477602ebc13b5292f6470a8ed2dece97874f"
+  },
+  "summary": {
+    "total": 12,
+    "badge_replaced": 3,
+    "without_badge": 9
+  },
+  "images": [
+    {
+      "source": "metaoffers",
+      "source_domain": "libre-mesh.org",
+      "source_id": "751",
+      "slug": "curso-de-marketing-digital-santander",
+      "source_url": "https://meta-offers-images.highstakes.tech/libre-mesh.org/curso-de-marketing-digital-santander-1776522542414.png",
+      "filename": "curso-de-marketing-digital-santander-1776522542414.png",
+      "post_path": "/images/post/curso-de-marketing-digital-santander-1776522542414.png",
+      "thumb_path": "/images/thumb/curso-de-marketing-digital-santander-1776522542414.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "c96c27ee16fcf3695152433d8143c39215203b74bddbf39e8cd51e9dc1bca239",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1162284
+      },
+      "post": {
+        "sha256": "97cc69906aa6539ed2a1ac94cccd9e7ce81ce183a80be48f960e26e0886053d5",
+        "width": 800,
+        "height": 400,
+        "bytes": 349599
+      },
+      "thumb": {
+        "sha256": "bcd9e2c576ceace7a5ce20770fc940456bd24a841cdb52ffa4e89fe5b7413e6b",
+        "width": 300,
+        "height": 225,
+        "bytes": 69587
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "newssprout.net",
+      "source_id": "38910",
+      "slug": "curso-de-marketing-digital-ginead",
+      "source_url": "https://meta-offers-images.highstakes.tech/newssprout.net/curso-de-marketing-digital-ginead.png",
+      "filename": "curso-de-marketing-digital-ginead.png",
+      "post_path": "/images/post/curso-de-marketing-digital-ginead.png",
+      "thumb_path": "/images/thumb/curso-de-marketing-digital-ginead.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "a5b7df50e9a4123dbf9b35f6da3fa66292a3251c25b26fdccada127a78895a95",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1096083
+      },
+      "post": {
+        "sha256": "ede101e1c5bdab4664d726c6712a5b4bcc0071e9af09b930bc837f6cf023bc37",
+        "width": 800,
+        "height": 400,
+        "bytes": 295443
+      },
+      "thumb": {
+        "sha256": "51321ad7f4bcd19d3228fa65da3e3fcd40830e3e07c9e58d7e85619f86cf9059",
+        "width": 300,
+        "height": 225,
+        "bytes": 70457
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "anamma.com.br",
+      "source_id": "274",
+      "slug": "curso-de-marketing-digital-alura",
+      "source_url": "https://meta-offers-images.highstakes.tech/anamma.com.br/curso-de-marketing-digital-alura.png",
+      "filename": "curso-de-marketing-digital-alura.png",
+      "post_path": "/images/post/curso-de-marketing-digital-alura.png",
+      "thumb_path": "/images/thumb/curso-de-marketing-digital-alura.png",
+      "badge_replaced": true,
+      "badge_box": [
+        1117,
+        36,
+        1500,
+        144
+      ],
+      "original": {
+        "sha256": "7a0db630d7ee783460d72d019a43648c7bb5bf1cc425947de7088ac538b93f82",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1128055
+      },
+      "post": {
+        "sha256": "645c3c12a6a351559a9e71b4208742763509706a1b72f5e1d8e1ca90a1d57acf",
+        "width": 800,
+        "height": 400,
+        "bytes": 288746
+      },
+      "thumb": {
+        "sha256": "424e7766d558fa0f120185c4222cd1e73b5008e292d81d3f651b514fdac24d97",
+        "width": 300,
+        "height": 225,
+        "bytes": 55576
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "agiliza.me",
+      "source_id": "38698",
+      "slug": "curso-de-mkt-digital-orango-senac",
+      "source_url": "https://meta-offers-images.highstakes.tech/agiliza.me/curso-de-mkt-digital-orango-senac.png",
+      "filename": "curso-de-mkt-digital-orango-senac.png",
+      "post_path": "/images/post/curso-de-mkt-digital-orango-senac.png",
+      "thumb_path": "/images/thumb/curso-de-mkt-digital-orango-senac.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "26c95d4e891824c71b515d8d527529d58007b4ae08d6f53220d952653f13f08f",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1076953
+      },
+      "post": {
+        "sha256": "addf6a3a9cecf9b82b7603efb4f6ec8f0ac65305a0e7d55b26c5edf183af168e",
+        "width": 800,
+        "height": 400,
+        "bytes": 296265
+      },
+      "thumb": {
+        "sha256": "24e61d98fd9a6d45a1660eb532ac1cf8390de334943d08db052f9d6db326097f",
+        "width": 300,
+        "height": 225,
+        "bytes": 73006
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "genteymas.net",
+      "source_id": "39877",
+      "slug": "berkeley-digital-mkt-certificate",
+      "source_url": "https://meta-offers-images.highstakes.tech/genteymas.net/berkeley-digital-mkt-certificate.png",
+      "filename": "berkeley-digital-mkt-certificate.png",
+      "post_path": "/images/post/berkeley-digital-mkt-certificate.png",
+      "thumb_path": "/images/thumb/berkeley-digital-mkt-certificate.png",
+      "badge_replaced": true,
+      "badge_box": [
+        1117,
+        40,
+        1500,
+        144
+      ],
+      "original": {
+        "sha256": "4f5e98752ba4061f8c74d9c350078602ed49b0e14cf7e1263042e4d27a564e6b",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1114379
+      },
+      "post": {
+        "sha256": "370f89749c2ef0768100f64dbdfaa09a385992bf04d2ec76c362437326c53b63",
+        "width": 800,
+        "height": 400,
+        "bytes": 303514
+      },
+      "thumb": {
+        "sha256": "29602d2d7af24c87f6e1ea5b843fb0c0b32cd2c71f8c1e880edd9d41fe91e069",
+        "width": 300,
+        "height": 225,
+        "bytes": 53699
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "newssprout.net",
+      "source_id": "38897",
+      "slug": "cim-certified-marketing-program",
+      "source_url": "https://meta-offers-images.highstakes.tech/newssprout.net/cim-certified-marketing-program.png",
+      "filename": "cim-certified-marketing-program.png",
+      "post_path": "/images/post/cim-certified-marketing-program.png",
+      "thumb_path": "/images/thumb/cim-certified-marketing-program.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "9c84f5909f5799627102d4aab2e069d01098b01bf63dfd6aaf94a022c9e874e0",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1094657
+      },
+      "post": {
+        "sha256": "7a438992a657aebc7058952170a58a9c672bcc9c88f8e1c457542d9b6876c6f8",
+        "width": 800,
+        "height": 400,
+        "bytes": 294330
+      },
+      "thumb": {
+        "sha256": "57864018281f35a467f143e0a93197e2ee21cbc4c6a9e0cb9fb549877c2ac596",
+        "width": 300,
+        "height": 225,
+        "bytes": 70681
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "s2earch.io",
+      "source_id": "3447",
+      "slug": "digital-marketing-course-spd",
+      "source_url": "https://meta-offers-images.highstakes.tech/s2earch.io/digital-marketing-course-spd.png",
+      "filename": "digital-marketing-course-spd.png",
+      "post_path": "/images/post/digital-marketing-course-spd.png",
+      "thumb_path": "/images/thumb/digital-marketing-course-spd.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "b5b9ae0059713acfbbde0c3eff16fadd6563945a45d5b6d133090a8e1bec463b",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1101840
+      },
+      "post": {
+        "sha256": "3ef0535fcf5d78c46a7f8955d69bfdd5c893cfa0434fccff45e1ce45bc32e6e8",
+        "width": 800,
+        "height": 400,
+        "bytes": 286955
+      },
+      "thumb": {
+        "sha256": "213010a3eb77405fb94102d07263747ebae36c2e109327910e6903a4e93b6f85",
+        "width": 300,
+        "height": 225,
+        "bytes": 68584
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "s2earch.io",
+      "source_id": "2372",
+      "slug": "digital-marketing-course-by-dmi",
+      "source_url": "https://meta-offers-images.highstakes.tech/s2earch.io/digital-marketing-course-by-dmi-1770906088631.png",
+      "filename": "digital-marketing-course-by-dmi-1770906088631.png",
+      "post_path": "/images/post/digital-marketing-course-by-dmi-1770906088631.png",
+      "thumb_path": "/images/thumb/digital-marketing-course-by-dmi-1770906088631.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "67904ddbbfd14a604ea9853f8b170de083b5ee3e04e06de147f1e62a94754db6",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1103369
+      },
+      "post": {
+        "sha256": "cd361a9b353db9b2c8ac50b23dbe88f3ea5ba5ff1d0b4bbdd0de9758a0f0d545",
+        "width": 800,
+        "height": 400,
+        "bytes": 289203
+      },
+      "thumb": {
+        "sha256": "ec3d39e13a7d9e1b8f87ca1eebdbaa65116feb5814e71ab57c5e7a2ab8890510",
+        "width": 300,
+        "height": 225,
+        "bytes": 71019
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "libre-mesh.org",
+      "source_id": "1778",
+      "slug": "certificacion-en-marketing-digital-esic",
+      "source_url": "https://meta-offers-images.highstakes.tech/libre-mesh.org/certificacion-en-marketing-digital-esic-1776522553571.png",
+      "filename": "certificacion-en-marketing-digital-esic-1776522553571.png",
+      "post_path": "/images/post/certificacion-en-marketing-digital-esic-1776522553571.png",
+      "thumb_path": "/images/thumb/certificacion-en-marketing-digital-esic-1776522553571.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "a50030fef72f0a9278b29f6dddc48c3c96a717df35b3552e47da5dae50d03149",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1154334
+      },
+      "post": {
+        "sha256": "605e965e6986965cb675efaf754741ab34c1edd9d7075a1952734ffd2d5b1641",
+        "width": 800,
+        "height": 400,
+        "bytes": 342600
+      },
+      "thumb": {
+        "sha256": "5b5c9ff1c4edc23cdfa57cbc89c952e540ef972cbbb8929112e88f7d283107bd",
+        "width": 300,
+        "height": 225,
+        "bytes": 65417
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "agiliza.me",
+      "source_id": "38681",
+      "slug": "certificado-en-marketing-digital-escuela-da-vinci",
+      "source_url": "https://meta-offers-images.highstakes.tech/agiliza.me/certificado-en-marketing-digital-escuela-da-vinci.png",
+      "filename": "certificado-en-marketing-digital-escuela-da-vinci.png",
+      "post_path": "/images/post/certificado-en-marketing-digital-escuela-da-vinci.png",
+      "thumb_path": "/images/thumb/certificado-en-marketing-digital-escuela-da-vinci.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "31980a73671fe5f24b35e804b53cc42772565d8700f58ef2444c501ce5b9e4c3",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1073998
+      },
+      "post": {
+        "sha256": "139748ef030c7224cc7079709556e3382c758c8f906608e850d184531a921bea",
+        "width": 800,
+        "height": 400,
+        "bytes": 294891
+      },
+      "thumb": {
+        "sha256": "e67df274f256033ccb3ebc8226e3da701577a35ad3cad1b7c06fe4428c20472e",
+        "width": 300,
+        "height": 225,
+        "bytes": 72620
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "s2earch.io",
+      "source_id": "2862",
+      "slug": "certificacion-en-marketing-digital-deusto",
+      "source_url": "https://meta-offers-images.highstakes.tech/s2earch.io/certificacion-en-marketing-digital-deusto.png",
+      "filename": "certificacion-en-marketing-digital-deusto.png",
+      "post_path": "/images/post/certificacion-en-marketing-digital-deusto.png",
+      "thumb_path": "/images/thumb/certificacion-en-marketing-digital-deusto.png",
+      "badge_replaced": false,
+      "badge_box": null,
+      "original": {
+        "sha256": "043bc06af226bbed40af6cb00e7474e29ae8e651a8853b663350735a3ee39357",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1109664
+      },
+      "post": {
+        "sha256": "f144aa9402cb95939dbe00cc2bb2203db7543af963b5535279455a94863ebcbd",
+        "width": 800,
+        "height": 400,
+        "bytes": 295914
+      },
+      "thumb": {
+        "sha256": "44b05f1f4adc9cc220865e679fa85298cca1bcb71f0aa94909b75622b31a92ed",
+        "width": 300,
+        "height": 225,
+        "bytes": 71039
+      }
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "anamma.com.br",
+      "source_id": "2456",
+      "slug": "certificacion-en-marketing-digital-akademus",
+      "source_url": "https://meta-offers-images.highstakes.tech/anamma.com.br/certificacion-en-marketing-digital-akademus.png",
+      "filename": "certificacion-en-marketing-digital-akademus.png",
+      "post_path": "/images/post/certificacion-en-marketing-digital-akademus.png",
+      "thumb_path": "/images/thumb/certificacion-en-marketing-digital-akademus.png",
+      "badge_replaced": true,
+      "badge_box": [
+        1117,
+        36,
+        1500,
+        144
+      ],
+      "original": {
+        "sha256": "e03483ddb4801631f3087b778c9e004f305c8b78986e8b3f36b289a8975c1b3b",
+        "width": 1500,
+        "height": 750,
+        "bytes": 1133349
+      },
+      "post": {
+        "sha256": "0da980816ae6c0851c0ddf4bcca26231256fb4fa118a358d3cc08a1d6557d18f",
+        "width": 800,
+        "height": 400,
+        "bytes": 293258
+      },
+      "thumb": {
+        "sha256": "254df958be32c583bceb6d696f6d66e2ece8e9b67d262a69fc5881d9ee0f7645",
+        "width": 300,
+        "height": 225,
+        "bytes": 57356
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<div class="preloader-plus">
+    <div class="prog-bar-wrapper">
+        <div class="prog-bar-bg"></div>
+        <div class="prog-bar" style="width: 7%;"></div>
+    </div>
+    <div class="preloader-content">
+        <div class="lds-css ng-scope" style="width: 109px;">
+            <div class="lds-rolling preloader-plus-default-icons" style="margin: auto;">
+                <div></div>
+            </div>
+        </div>
+        <div class="preloader-plus-custom-content">
+            <p>{loading_text}</p>
+        </div>
+        <p id="preloader-counter">7%</p>
+    </div>
+</div>
+<script>
+    let preloader = document.querySelector('.preloader-plus');
+
+    let progBar = document.querySelector('.prog-bar')
+    let counter = document.getElementById('preloader-counter');
+    let progress = 7
+
+    let loaderInterval = setInterval(() => {
+        progress += 2
+
+        if (progress <= 100) {
+            $(counter).html(`${progress}%`)
+            progBar.style.width = `${progress}%`
+        } else {
+            clearInterval(loaderInterval)
+        }
+    }, 100)
+
+
+
+    let adLoadedInterval = setInterval(() => {
+        if (document.querySelector('#timplie_desk_top')) {
+            if (document.querySelector('#timplie_desk_top').innerHTML.length > 500) {
+                console.log('Cleared desk');
+                $(preloader).fadeOut(500)
+                clearInterval(adLoadedInterval);
+            }
+        }
+        
+        if (document.querySelector('#timplie_mob_top')) {
+            if (document.querySelector('#timplie_mob_top').innerHTML.length > 500) {
+                console.log('Cleared mob');
+                $(preloader).fadeOut(500)
+                clearInterval(adLoadedInterval);
+            }
+        }
+    }, 50)
+
+    setTimeout(() => { $(preloader).fadeOut(500) }, 3000)
+</script>

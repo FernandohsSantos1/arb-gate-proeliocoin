@@ -1,0 +1,132 @@
+{
+  "urls": [
+    "https://agiliza.me/v/curso-de-mkt-digital-orango-senac/",
+    "https://genteymas.net/v/curso-mkt-digital-orango-senac/",
+    "https://newssprout.net/v/curso-de-marketing-digital-ginead/",
+    "https://temaabierto.com/v/curso-de-mkt-digital-orango-senac/",
+    "https://libre-mesh.org/v/curso-de-marketing-digital-santander/",
+    "https://c5concepts.com/v/curso-alura-marketing-digital/",
+    "https://nknewz.com/v/curso-marketing-digital-alura/",
+    "https://anamma.com.br/v/curso-de-marketing-digital-alura/",
+    "https://s2earch.io/v/curso-marketing-digital-orango/",
+    "https://tu-dinero.org/v/curso-formacao-marketing-digital-alura/",
+    "https://corquieu.com/v/curso-fundamentos-marketing-digital-ginead/",
+    "https://crescemais.me/v/curso-mkt-digital-orango-senac/",
+    "https://confacilidad.org/v/curso-de-marketing-digital-ginead/",
+    "https://moneysage.me/v/curso-marketing-digital-alura/"
+  ],
+  "records": {
+    "https://agiliza.me/v/curso-de-mkt-digital-orango-senac/": {
+      "domain_name": "agiliza.me",
+      "slug": "curso-de-mkt-digital-orango-senac",
+      "product_id": "13",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://genteymas.net/v/curso-mkt-digital-orango-senac/": {
+      "domain_name": "genteymas.net",
+      "slug": "curso-mkt-digital-orango-senac",
+      "product_id": "13",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://newssprout.net/v/curso-de-marketing-digital-ginead/": {
+      "domain_name": "newssprout.net",
+      "slug": "curso-de-marketing-digital-ginead",
+      "product_id": "15",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://temaabierto.com/v/curso-de-mkt-digital-orango-senac/": {
+      "domain_name": "temaabierto.com",
+      "slug": "curso-de-mkt-digital-orango-senac",
+      "product_id": "13",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://libre-mesh.org/v/curso-de-marketing-digital-santander/": {
+      "domain_name": "libre-mesh.org",
+      "slug": "curso-de-marketing-digital-santander",
+      "product_id": "16",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://c5concepts.com/v/curso-alura-marketing-digital/": {
+      "domain_name": "c5concepts.com",
+      "slug": "curso-alura-marketing-digital",
+      "product_id": "7",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://nknewz.com/v/curso-marketing-digital-alura/": {
+      "domain_name": "nknewz.com",
+      "slug": "curso-marketing-digital-alura",
+      "product_id": "7",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://anamma.com.br/v/curso-de-marketing-digital-alura/": {
+      "domain_name": "anamma.com.br",
+      "slug": "curso-de-marketing-digital-alura",
+      "product_id": "7",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://s2earch.io/v/curso-marketing-digital-orango/": {
+      "domain_name": "s2earch.io",
+      "slug": "curso-marketing-digital-orango",
+      "product_id": "13",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://tu-dinero.org/v/curso-formacao-marketing-digital-alura/": {
+      "domain_name": "tu-dinero.org",
+      "slug": "curso-formacao-marketing-digital-alura",
+      "product_id": "7",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://corquieu.com/v/curso-fundamentos-marketing-digital-ginead/": {
+      "domain_name": "corquieu.com",
+      "slug": "curso-fundamentos-marketing-digital-ginead",
+      "product_id": "15",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://crescemais.me/v/curso-mkt-digital-orango-senac/": {
+      "domain_name": "crescemais.me",
+      "slug": "curso-mkt-digital-orango-senac",
+      "product_id": "13",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://confacilidad.org/v/curso-de-marketing-digital-ginead/": {
+      "domain_name": "confacilidad.org",
+      "slug": "curso-de-marketing-digital-ginead",
+      "product_id": "15",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    },
+    "https://moneysage.me/v/curso-marketing-digital-alura/": {
+      "domain_name": "moneysage.me",
+      "slug": "curso-marketing-digital-alura",
+      "product_id": "7",
+      "offer_id": "1",
+      "lang": "pt",
+      "status": "published"
+    }
+  }
+}

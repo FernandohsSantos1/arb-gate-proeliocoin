@@ -1,11 +1,11 @@
 {
-	"id": "arb-test-b",
-	"domain": "site-b.example",
-	"name": "ClickVerso",
+	"id": "arb-gate-proeliocoin",
+	"domain": "proeliocoin.com",
+	"name": "Proeliocoin",
 	"cms_domain": "clickverso.net",
 	"cdn_domain": "cdn.clickverso.net",
 	"analytics": false,
-	"observe_only": true,
+	"observe_only": false,
 	"experiment": "fingerprint-v1",
 	"revision": 1,
 	"fingerprint": true

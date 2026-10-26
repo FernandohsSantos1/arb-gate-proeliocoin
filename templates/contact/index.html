@@ -1,0 +1,172 @@
+<style>
+    #form-feedback {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <main class="main-content-area">
+                <article class="post post-single">
+                    <header class="post-header">
+                        <h1 class="post-title">{title}</h1>
+                    </header>
+                    <div class="post-content">
+                        <h3 id="do-you-have-any-query-or-just-want-to-say-hi">{subtitle}</h3>
+                        <p>{text}</p>
+                        <!--kg-card-begin: html-->
+                        <form id="contact-form">
+                            <input
+                                id="name"
+                                type="text"
+                                name="name"
+                                placeholder="{placeholder_name}"
+                                autocomplete="off"
+                                style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;"
+                                required
+                            >
+                            <input
+                                id="email"
+                                type="email"
+                                name="email"
+                                placeholder="E-mail"
+                                required
+                            >
+                            <input
+                                id="subject"
+                                type="text"
+                                name="subject"
+                                placeholder="{placeholder_subject}"
+                                required
+                            >
+                            <textarea
+                                id="message"
+                                name="message"
+                                placeholder="{placeholder_message}"
+                                rows="4"
+                                required
+                            ></textarea>
+                            <input
+                                class="btn"
+                                type="submit"
+                                value="{button_text}"
+                                rows="8"
+                            >
+                        </form>
+                        <!-- Feedback Div -->
+                        <div id="form-feedback" style="display: none;"></div>
+                        <!--kg-card-end: html-->
+                    </div>
+                </article>
+            </main>
+        </div>
+        <div class="col-md-4">
+            {sidebar}
+        </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+        const contactForm = document.getElementById('contact-form');
+        const feedbackDiv = document.getElementById('form-feedback');
+        const submitButton = contactForm.querySelector('input[type="submit"]');
+        const originalButtonText = submitButton.value;
+
+        contactForm.addEventListener('submit', async (event) => {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Collect form data
+            const name = document.getElementById('name').value.trim();
+            const email = document.getElementById('email').value.trim();
+            const subject = document.getElementById('subject').value.trim();
+            const message = document.getElementById('message').value.trim();
+            
+
+            // Validate form data (optional, since 'required' attributes are set)
+            if (!name || !email || !subject || !message) {
+                displayFeedback('Please fill in all required fields.', 'error');
+                return;
+            }
+
+            // Prepare the payload
+            const payload = {
+                name,
+                email,
+                subject,
+                message,
+            };
+
+            try {
+                // Disable the submit button to prevent multiple submissions
+                submitButton.disabled = true;
+                submitButton.value = '{sending_message}';
+
+                // Make the asynchronous POST request
+                const response = await fetch('/api/contact/message/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(payload),
+                });
+
+                // Check if the response is successful
+                if (!response.ok) {
+                    throw new Error(`Server responded with status ${response.status}`);
+                }
+
+                // Parse the JSON response
+                const data = await response.json();
+
+                // Handle success response
+                if (data.success) {
+                    displayFeedback('{success_message}', 'success');
+                    contactForm.reset(); // Clear the form
+                } else {
+                    // Handle server-side validation errors or other failures
+                    const errorMessage = '{server_error_message}';
+                    displayFeedback(errorMessage, 'error');
+                }
+            } catch (error) {
+                console.error('Error submitting contact form:', error);
+                displayFeedback(
+                    '{form_error_message}',
+                    'error'
+                );
+            } finally {
+                // Re-enable the submit button
+                submitButton.disabled = false;
+                submitButton.value = originalButtonText;
+            }
+        });
+
+        /**
+         * Displays feedback messages to the user.
+         * @param {string} message - The message to display.
+         * @param {string} type - The type of message ('success' or 'error').
+         */
+        function displayFeedback(message, type) {
+            feedbackDiv.textContent = message;
+            feedbackDiv.style.display = 'block';
+            feedbackDiv.style.padding = '10px';
+            feedbackDiv.style.marginTop = '10px';
+            feedbackDiv.style.borderRadius = '5px';
+
+            if (type === 'success') {
+                feedbackDiv.style.backgroundColor = '#d4edda';
+                feedbackDiv.style.color = '#155724';
+                feedbackDiv.style.border = '1px solid #c3e6cb';
+            } else if (type === 'error') {
+                feedbackDiv.style.backgroundColor = '#f8d7da';
+                feedbackDiv.style.color = '#721c24';
+                feedbackDiv.style.border = '1px solid #f5c6cb';
+            }
+
+            // Automatically hide the message after 5 seconds
+            setTimeout(() => {
+                feedbackDiv.style.display = 'none';
+            }, 5000);
+        }
+    });
+    </script>
+</div>

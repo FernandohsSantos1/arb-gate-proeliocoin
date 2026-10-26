@@ -1,0 +1,3345 @@
+{
+  "generated_at": "2026-10-16T11:35:19.270Z",
+  "source_window": {
+    "site_id": "guide-flow.org",
+    "requested_date_range": [
+      "2026-10-12T15:22:20.554Z",
+      "2026-10-15T15:22:20.554Z"
+    ],
+    "effective_date_range": [
+      "2026-10-12T12:22:20-03:00",
+      "2026-10-15T12:22:20-03:00"
+    ],
+    "presentation_timezone": "America/Sao_Paulo",
+    "window_hours": 72,
+    "manifest_sha256": "66d1d9c1a5426e4c950e9691ee026bbb5dc6efd47108fb23c31a0e4a0b67e86f",
+    "verified_source_files": 192
+  },
+  "articles": [
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "727",
+      "slug": "curso-marketing-digital-santander",
+      "lang": "pt",
+      "title": "Curso de Marketing Digital Santander Open Academy: O Guia Completo para Aprender Storytelling e Métricas",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-marketing-digital-santander.png",
+      "product_id": "16",
+      "offer_id": "1",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-marketing-digital-santander/",
+      "source_paths": [
+        "/e/curso-marketing-digital-santander/",
+        "/r/curso-marketing-digital-santander/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "3804",
+      "slug": "berkeley-digital-mkt-certificate",
+      "lang": "en",
+      "title": "Berkeley Digital Marketing Course: The Full Guide",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/berkeley-digital-mkt-certificate.png",
+      "product_id": "29",
+      "offer_id": "6",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/berkeley-digital-mkt-certificate/",
+      "source_paths": [
+        "/e/berkeley-digital-mkt-certificate/",
+        "/r/berkeley-digital-mkt-certificate/",
+        "/rb/berkeley-digital-mkt-certificate/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "15563",
+      "slug": "prestamo-personal-bbva",
+      "lang": "es",
+      "title": "Préstamo Personal de BBVA: La Guía Completa para tu Proyecto",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/prestamo-personal-bbva-1765893201495.png",
+      "product_id": "88",
+      "offer_id": "20",
+      "offer": "loans",
+      "canonical_path": "/e/prestamo-personal-bbva/",
+      "source_paths": [
+        "/e/prestamo-personal-bbva/",
+        "/r/prestamo-personal-bbva/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "6517",
+      "slug": "auto-financing-by-commerce-bank",
+      "lang": "en",
+      "title": "Commerce Bank’s Auto Financing: The Full Guide to Rates, Terms, and Applying",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/auto-financing-by-commerce-bank.png",
+      "product_id": "60",
+      "offer_id": "14",
+      "offer": "cars",
+      "canonical_path": "/e/auto-financing-by-commerce-bank/",
+      "source_paths": [
+        "/e/auto-financing-by-commerce-bank/",
+        "/r/auto-financing-by-commerce-bank/",
+        "/rb/auto-financing-by-commerce-bank/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "7549",
+      "slug": "financiacion-de-vehiculos-por-kapital-bank",
+      "lang": "es",
+      "title": "Financiamiento de Vehículos por Kapital Bank: La guía completa para estrenar tu auto",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiacion-de-vehiculos-por-kapital-bank.png",
+      "product_id": "54",
+      "offer_id": "12",
+      "offer": "cars",
+      "canonical_path": "/e/financiacion-de-vehiculos-por-kapital-bank/",
+      "source_paths": [
+        "/e/financiacion-de-vehiculos-por-kapital-bank/",
+        "/r/financiacion-de-vehiculos-por-kapital-bank/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "19528",
+      "slug": "curso-online-data-science-alura",
+      "lang": "pt",
+      "title": "Curso de Análise de Dados Alura: O Guia Completo",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-online-data-science-alura.png",
+      "product_id": "99",
+      "offer_id": "26",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-online-data-science-alura/",
+      "source_paths": [
+        "/e/curso-online-data-science-alura/",
+        "/r/curso-online-data-science-alura/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "16257",
+      "slug": "prestamo-personal-del-banco-de-bogota",
+      "lang": "es",
+      "title": "Préstamo del Banco de Bogotá: La guía completa del Préstamo Personal",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/prestamo-personal-del-banco-de-bogota.png",
+      "product_id": "86",
+      "offer_id": "20",
+      "offer": "loans",
+      "canonical_path": "/e/prestamo-personal-del-banco-de-bogota/",
+      "source_paths": [
+        "/e/prestamo-personal-del-banco-de-bogota/",
+        "/r/prestamo-personal-del-banco-de-bogota/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "12992",
+      "slug": "porto-seguro-financiamento-de-veiculos",
+      "lang": "pt",
+      "title": "Porto Seguro Financiamento de Automóveis: O Guia Completo para Financiar seu Próximo Carro",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/porto-seguro-financiamento-de-veiculos.png",
+      "product_id": "71",
+      "offer_id": "18",
+      "offer": "cars",
+      "canonical_path": "/e/porto-seguro-financiamento-de-veiculos/",
+      "source_paths": [
+        "/e/porto-seguro-financiamento-de-veiculos/",
+        "/r/porto-seguro-financiamento-de-veiculos/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "7341",
+      "slug": "financiamiento-de-autos-por-usc-credit-union",
+      "lang": "es",
+      "title": "Financiamiento de Autos de USC Credit Union: La guía completa para elegir y financiar tu vehículo",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiamiento-de-autos-por-usc-credit-union.png",
+      "product_id": "55",
+      "offer_id": "12",
+      "offer": "cars",
+      "canonical_path": "/e/financiamiento-de-autos-por-usc-credit-union/",
+      "source_paths": [
+        "/e/financiamiento-de-autos-por-usc-credit-union/",
+        "/r/financiamiento-de-autos-por-usc-credit-union/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "1057",
+      "slug": "curso-de-marketing-digital-ginead",
+      "lang": "pt",
+      "title": "Curso de Marketing Digital GINEAD: O Guia Completo para Começar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-marketing-digital-ginead.png",
+      "product_id": "15",
+      "offer_id": "1",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-marketing-digital-ginead/",
+      "source_paths": [
+        "/e/curso-de-marketing-digital-ginead/",
+        "/r/curso-de-marketing-digital-ginead/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "21383",
+      "slug": "formation-en-analyse-de-donnees-par-ib-cegos",
+      "lang": "fr",
+      "title": "Ib Cegos Formation Data Analytics: Le guide complet pour maîtriser Python et l'analyse de données",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/formation-en-analyse-de-donnees-par-ib-cegos.png",
+      "product_id": "118",
+      "offer_id": "30",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/formation-en-analyse-de-donnees-par-ib-cegos/",
+      "source_paths": [
+        "/e/formation-en-analyse-de-donnees-par-ib-cegos/",
+        "/r/formation-en-analyse-de-donnees-par-ib-cegos/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "16024",
+      "slug": "financiamiento-hipotecario-bna",
+      "lang": "es",
+      "title": "Préstamo Hipotecario BNA: La guía completa para comprar, construir y ampliar tu hogar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiamiento-hipotecario-bna.png",
+      "product_id": "85",
+      "offer_id": "20",
+      "offer": "loans",
+      "canonical_path": "/e/financiamiento-hipotecario-bna/",
+      "source_paths": [
+        "/e/financiamiento-hipotecario-bna/",
+        "/r/financiamiento-hipotecario-bna/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "3201",
+      "slug": "curso-de-marketing-digital-santander",
+      "lang": "es",
+      "title": "Curso Online de Marketing Digital Santander: La guía completa para dominar el storytelling y las métricas digitales",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-marketing-digital-santander.png",
+      "product_id": "32",
+      "offer_id": "7",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-marketing-digital-santander/",
+      "source_paths": [
+        "/e/curso-de-marketing-digital-santander/",
+        "/r/curso-de-marketing-digital-santander/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "7811",
+      "slug": "financiamiento-de-autos-por-globalcaja",
+      "lang": "es",
+      "title": "Globalcaja Financiamiento de Autos: La Guía Completa para Conducir Tu Coche Ideal",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiamiento-de-autos-por-globalcaja.png",
+      "product_id": "51",
+      "offer_id": "12",
+      "offer": "cars",
+      "canonical_path": "/e/financiamiento-de-autos-por-globalcaja/",
+      "source_paths": [
+        "/e/financiamiento-de-autos-por-globalcaja/",
+        "/r/financiamiento-de-autos-por-globalcaja/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "6542",
+      "slug": "fifth-third-auto-financing",
+      "lang": "en",
+      "title": "Auto Financing by Fifth Third: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/fifth-third-auto-financing.png",
+      "product_id": "61",
+      "offer_id": "14",
+      "offer": "cars",
+      "canonical_path": "/e/fifth-third-auto-financing/",
+      "source_paths": [
+        "/e/fifth-third-auto-financing/",
+        "/r/fifth-third-auto-financing/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "373",
+      "slug": "curso-de-marketing-digital-alura",
+      "lang": "pt",
+      "title": "Curso Formação em Marketing Digital Alura: O Guia Completo para Começar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-marketing-digital-alura.png",
+      "product_id": "7",
+      "offer_id": "1",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-marketing-digital-alura/",
+      "source_paths": [
+        "/e/curso-de-marketing-digital-alura/",
+        "/r/curso-de-marketing-digital-alura/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "19987",
+      "slug": "curso-de-analisis-de-datos-netmind",
+      "lang": "es",
+      "title": "Formación en Análisis de Datos Netmind: La guía completa para dominar el análisis y la certificación",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-analisis-de-datos-netmind-1771515558476.png",
+      "product_id": "101",
+      "offer_id": "27",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-analisis-de-datos-netmind/",
+      "source_paths": [
+        "/e/curso-de-analisis-de-datos-netmind/",
+        "/r/curso-de-analisis-de-datos-netmind/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "3800",
+      "slug": "cim-certified-marketing-program",
+      "lang": "en",
+      "title": "CIM Certified Marketing Program: The Full Guide to the Digital Marketing Course",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cim-certified-marketing-program.png",
+      "product_id": "30",
+      "offer_id": "6",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cim-certified-marketing-program/",
+      "source_paths": [
+        "/e/cim-certified-marketing-program/",
+        "/r/cim-certified-marketing-program/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "20684",
+      "slug": "microsoft-curso-de-data-analytics",
+      "lang": "es",
+      "title": "Curso de Análisis de Datos  Microsoft: Guía completa para dominar Power BI y análisis moderno",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/microsoft-curso-de-data-analytics-1771595388308.png",
+      "product_id": "104",
+      "offer_id": "27",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/microsoft-curso-de-data-analytics/",
+      "source_paths": [
+        "/e/microsoft-curso-de-data-analytics/",
+        "/r/microsoft-curso-de-data-analytics/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "6860",
+      "slug": "auto-financing-by-bmo",
+      "lang": "en",
+      "title": "BMO Auto Financing: The Full Guide to Smart Car Loans",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/auto-financing-by-bmo.png",
+      "product_id": "57",
+      "offer_id": "14",
+      "offer": "cars",
+      "canonical_path": "/e/auto-financing-by-bmo/",
+      "source_paths": [
+        "/e/auto-financing-by-bmo/",
+        "/r/auto-financing-by-bmo/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "2796",
+      "slug": "certificacion-en-marketing-digital-deusto",
+      "lang": "es",
+      "title": "Curso Online de Marketing Digital Deusto: La Guía Completa para Conseguir la Certificación Meta",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/certificacion-en-marketing-digital-deusto.png",
+      "product_id": "35",
+      "offer_id": "7",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/certificacion-en-marketing-digital-deusto/",
+      "source_paths": [
+        "/e/certificacion-en-marketing-digital-deusto/",
+        "/r/certificacion-en-marketing-digital-deusto/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "9906",
+      "slug": "cours-de-marketing-digital-hubspot",
+      "lang": "fr",
+      "title": "Cours De Marketing Digital De HubSpot: Le Guide Complet pour Maîtriser le Marketing en Ligne",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cours-de-marketing-digital-hubspot.png",
+      "product_id": "68",
+      "offer_id": "17",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cours-de-marketing-digital-hubspot/",
+      "source_paths": [
+        "/e/cours-de-marketing-digital-hubspot/",
+        "/r/cours-de-marketing-digital-hubspot/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "23720",
+      "slug": "creditas-financiamento-de-veiculos",
+      "lang": "pt",
+      "title": "Financiamento de Automóveis Creditas: O Guia Completo para Comprar seu Carro com Segurança",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/creditas-financiamento-de-veiculos-1769087901570.png",
+      "product_id": "72",
+      "offer_id": "18",
+      "offer": "cars",
+      "canonical_path": "/e/creditas-financiamento-de-veiculos/",
+      "source_paths": [
+        "/e/creditas-financiamento-de-veiculos/",
+        "/r/creditas-financiamento-de-veiculos/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "23960",
+      "slug": "truist-s-auto-financing",
+      "lang": "en",
+      "title": "Auto Financing from Truist: The Full Guide",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/truist-s-auto-financing.png",
+      "product_id": "58",
+      "offer_id": "14",
+      "offer": "cars",
+      "canonical_path": "/e/truist-s-auto-financing/",
+      "source_paths": [
+        "/e/truist-s-auto-financing/",
+        "/r/truist-s-auto-financing/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345094",
+      "slug": "from-wishlist-to-reality-saving-for-your-biggest-dreams",
+      "lang": "en",
+      "title": "From Wishlist to Reality: Saving for Your Biggest Dreams",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715600049-f2c9036a9df6c8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/from-wishlist-to-reality-saving-for-your-biggest-dreams/",
+      "source_paths": [
+        "/p/from-wishlist-to-reality-saving-for-your-biggest-dreams/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "22323",
+      "slug": "brainstation-data-analytics-certification",
+      "lang": "en",
+      "title": "BrainStation Data Analytics Certification: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/brainstation-data-analytics-certification.png",
+      "product_id": "106",
+      "offer_id": "28",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/brainstation-data-analytics-certification/",
+      "source_paths": [
+        "/e/brainstation-data-analytics-certification/",
+        "/r/brainstation-data-analytics-certification/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "2548",
+      "slug": "formacion-en-marketing-digital-akademus",
+      "lang": "es",
+      "title": "Curso Online de Marketing Digital Akademus: Todo lo que necesitas saber para avanzar en tu carrera",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/formacion-en-marketing-digital-akademus.png",
+      "product_id": "34",
+      "offer_id": "7",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/formacion-en-marketing-digital-akademus/",
+      "source_paths": [
+        "/e/formacion-en-marketing-digital-akademus/",
+        "/r/formacion-en-marketing-digital-akademus/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "20446",
+      "slug": "curso-de-analisis-de-datos-de-le-wagon",
+      "lang": "es",
+      "title": "Curso de Análisis de Datos Le Wagon: La Guía Completa para Empezar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-analisis-de-datos-de-le-wagon.png",
+      "product_id": "103",
+      "offer_id": "27",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-analisis-de-datos-de-le-wagon/",
+      "source_paths": [
+        "/e/curso-de-analisis-de-datos-de-le-wagon/",
+        "/r/curso-de-analisis-de-datos-de-le-wagon/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "1780",
+      "slug": "curso-de-marketing-digital-esic",
+      "lang": "es",
+      "title": "Curso  de Marketing Digital ESIC: Guía completa para profesionales y aspirantes",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-marketing-digital-esic.png",
+      "product_id": "33",
+      "offer_id": "7",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-marketing-digital-esic/",
+      "source_paths": [
+        "/e/curso-de-marketing-digital-esic/",
+        "/r/curso-de-marketing-digital-esic/",
+        "/rb/curso-de-marketing-digital-esic/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "7716",
+      "slug": "financiacion-de-autos-por-clickauto-finance",
+      "lang": "es",
+      "title": "Financiamiento de Autos por ClickAuto Finance: La Guía Completa para Encontrar tu Crédito Ideal",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiacion-de-autos-por-clickauto-finance.png",
+      "product_id": "53",
+      "offer_id": "12",
+      "offer": "cars",
+      "canonical_path": "/e/financiacion-de-autos-por-clickauto-finance/",
+      "source_paths": [
+        "/e/financiacion-de-autos-por-clickauto-finance/",
+        "/r/financiacion-de-autos-por-clickauto-finance/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "682",
+      "slug": "curso-marketing-digital-orango-senac",
+      "lang": "pt",
+      "title": "Curso Marketing Digital da Orango: O Guia Completo para Começar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-marketing-digital-orango-senac.png",
+      "product_id": "13",
+      "offer_id": "1",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-marketing-digital-orango-senac/",
+      "source_paths": [
+        "/e/curso-marketing-digital-orango-senac/",
+        "/r/curso-marketing-digital-orango-senac/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "8200",
+      "slug": "ropa-gratis-con-shein",
+      "lang": "es",
+      "title": "Ropa Gratis con Shein: La guía completa para conseguir prendas gratis",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/ropa-gratis-con-shein.png",
+      "product_id": "39",
+      "offer_id": "8",
+      "offer": "clothes",
+      "canonical_path": "/e/ropa-gratis-con-shein/",
+      "source_paths": [
+        "/e/ropa-gratis-con-shein/",
+        "/r/ropa-gratis-con-shein/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345041",
+      "slug": "the-ultimate-savings-checklist-are-you-missing-out",
+      "lang": "en",
+      "title": "The Ultimate Savings Checklist: Are You Missing Out?",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715580119-9c802f160c981.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-ultimate-savings-checklist-are-you-missing-out/",
+      "source_paths": [
+        "/p/the-ultimate-savings-checklist-are-you-missing-out/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345014",
+      "slug": "mindful-money-cultivating-a-savings-mindset",
+      "lang": "en",
+      "title": "Mindful Money: Cultivating a Savings Mindset",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715573607-c924069f1567d.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/mindful-money-cultivating-a-savings-mindset/",
+      "source_paths": [
+        "/p/mindful-money-cultivating-a-savings-mindset/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "3389",
+      "slug": "digital-marketing-course-spd",
+      "lang": "en",
+      "title": "Digital Marketing Skills Course SPD: The Full Guide to Mastering Practical Digital Marketing",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/digital-marketing-course-spd.png",
+      "product_id": "36",
+      "offer_id": "6",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/digital-marketing-course-spd/",
+      "source_paths": [
+        "/e/digital-marketing-course-spd/",
+        "/r/digital-marketing-course-spd/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "2321",
+      "slug": "digital-marketing-course-by-dmi",
+      "lang": "en",
+      "title": "Digital Marketing Course By DMI: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/digital-marketing-course-by-dmi-1770905990406.png",
+      "product_id": "37",
+      "offer_id": "6",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/digital-marketing-course-by-dmi/",
+      "source_paths": [
+        "/e/digital-marketing-course-by-dmi/",
+        "/r/digital-marketing-course-by-dmi/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344770",
+      "slug": "inflations-impact-shielding-your-savings-from-devaluation",
+      "lang": "en",
+      "title": "Inflation's Impact: Shielding Your Savings from Devaluation",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715505784-768bab6d947578.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/inflations-impact-shielding-your-savings-from-devaluation/",
+      "source_paths": [
+        "/p/inflations-impact-shielding-your-savings-from-devaluation/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "12527",
+      "slug": "financiamento-de-veiculos-bv",
+      "lang": "pt",
+      "title": "BV Financiamento de Automóveis: O Guia Completo para Comprar Seu Veículo com Segurança",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiamento-de-veiculos-bv.png",
+      "product_id": "69",
+      "offer_id": "18",
+      "offer": "cars",
+      "canonical_path": "/e/financiamento-de-veiculos-bv/",
+      "source_paths": [
+        "/e/financiamento-de-veiculos-bv/",
+        "/r/financiamento-de-veiculos-bv/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344751",
+      "slug": "the-power-of-passive-income-earning-while-you-sleep",
+      "lang": "en",
+      "title": "The Power of Passive Income: Earning While You Sleep",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715494860-e4f10d710dda58.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-power-of-passive-income-earning-while-you-sleep/",
+      "source_paths": [
+        "/p/the-power-of-passive-income-earning-while-you-sleep/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "15326",
+      "slug": "banco-davivienda-prestamo-personal",
+      "lang": "es",
+      "title": "Banco Davivienda Préstamo Personal: La Guía Completa para Solicitar y Entender tu Crédito",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/banco-davivienda-prestamo-personal.png",
+      "product_id": "87",
+      "offer_id": "20",
+      "offer": "loans",
+      "canonical_path": "/e/banco-davivienda-prestamo-personal/",
+      "source_paths": [
+        "/e/banco-davivienda-prestamo-personal/",
+        "/r/banco-davivienda-prestamo-personal/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "3032",
+      "slug": "curso-de-marketing-online-da-vinci",
+      "lang": "es",
+      "title": "Certificado en Marketing Digital Escuela Da Vinci: Guía Completa para Emprendedores",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-marketing-online-da-vinci.png",
+      "product_id": "31",
+      "offer_id": "7",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-marketing-online-da-vinci/",
+      "source_paths": [
+        "/e/curso-de-marketing-online-da-vinci/",
+        "/r/curso-de-marketing-online-da-vinci/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "20920",
+      "slug": "adams-curso-de-analisis-de-datos",
+      "lang": "es",
+      "title": "Formación en Análisis de Datos Adams: Guía Completa para Especializarte en Big Data",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/adams-curso-de-analisis-de-datos.png",
+      "product_id": "105",
+      "offer_id": "27",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/adams-curso-de-analisis-de-datos/",
+      "source_paths": [
+        "/e/adams-curso-de-analisis-de-datos/",
+        "/r/adams-curso-de-analisis-de-datos/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "4330",
+      "slug": "get-clothes-for-free-on-shein",
+      "lang": "en",
+      "title": "Get Free Clothes on Shein: The Complete Free Trial Guide",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/get-clothes-for-free-on-shein.png",
+      "product_id": "40",
+      "offer_id": "10",
+      "offer": "clothes",
+      "canonical_path": "/e/get-clothes-for-free-on-shein/",
+      "source_paths": [
+        "/e/get-clothes-for-free-on-shein/",
+        "/r/get-clothes-for-free-on-shein/",
+        "/rb/get-clothes-for-free-on-shein/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "15795",
+      "slug": "prestamo-personal-santander",
+      "lang": "es",
+      "title": "Préstamo Personal de Santander: La Guía Completa",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/prestamo-personal-santander-1765886980484.png",
+      "product_id": "84",
+      "offer_id": "20",
+      "offer": "loans",
+      "canonical_path": "/e/prestamo-personal-santander/",
+      "source_paths": [
+        "/e/prestamo-personal-santander/",
+        "/r/prestamo-personal-santander/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "3927",
+      "slug": "yale-online-marketing-course",
+      "lang": "en",
+      "title": "Digital Marketing at Yale School of Management: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/yale-online-marketing-course-1770895625943.png",
+      "product_id": "28",
+      "offer_id": "6",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/yale-online-marketing-course/",
+      "source_paths": [
+        "/e/yale-online-marketing-course/",
+        "/r/yale-online-marketing-course/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344918",
+      "slug": "automate-your-abundance-setting-up-systems-for-effortless-saving",
+      "lang": "en",
+      "title": "Automate Your Abundance: Setting Up Systems for Effortless Saving",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715552659-a6e26fe49a2d18.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/automate-your-abundance-setting-up-systems-for-effortless-saving/",
+      "source_paths": [
+        "/p/automate-your-abundance-setting-up-systems-for-effortless-saving/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "6692",
+      "slug": "ford-auto-financing",
+      "lang": "en",
+      "title": "Auto Financing from Ford: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/ford-auto-financing.png",
+      "product_id": "59",
+      "offer_id": "14",
+      "offer": "cars",
+      "canonical_path": "/e/ford-auto-financing/",
+      "source_paths": [
+        "/e/ford-auto-financing/",
+        "/r/ford-auto-financing/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344995",
+      "slug": "invest-in-yourself-how-saving-fuels-personal-growth",
+      "lang": "en",
+      "title": "Invest in Yourself: How Saving Fuels Personal Growth",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715569725-be5ed5a339b0d8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/invest-in-yourself-how-saving-fuels-personal-growth/",
+      "source_paths": [
+        "/p/invest-in-yourself-how-saving-fuels-personal-growth/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344808",
+      "slug": "the-smart-shoppers-checklist-before-you-click-add-to-cart",
+      "lang": "en",
+      "title": "The Smart Shopper's Checklist: Before You Click 'Add to Cart",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715518921-c631b3c43482f8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-smart-shoppers-checklist-before-you-click-add-to-cart/",
+      "source_paths": [
+        "/p/the-smart-shoppers-checklist-before-you-click-add-to-cart/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "5536",
+      "slug": "private-student-loan-from-pnc-bank",
+      "lang": "en",
+      "title": "PNC Bank Private Student Loans Program: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/private-student-loan-from-pnc-bank.png",
+      "product_id": "42",
+      "offer_id": "9",
+      "offer": "loans",
+      "canonical_path": "/e/private-student-loan-from-pnc-bank/",
+      "source_paths": [
+        "/e/private-student-loan-from-pnc-bank/",
+        "/r/private-student-loan-from-pnc-bank/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344823",
+      "slug": "financial-literacy-for-life-essential-skills-for-every-age",
+      "lang": "en",
+      "title": "Financial Literacy for Life: Essential Skills for Every Age",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715523033-e748463fb2f8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/financial-literacy-for-life-essential-skills-for-every-age/",
+      "source_paths": [
+        "/p/financial-literacy-for-life-essential-skills-for-every-age/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344867",
+      "slug": "understanding-inflation-how-to-safeguard-your-savings",
+      "lang": "en",
+      "title": "Understanding Inflation: How to Safeguard Your Savings",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715536434-82a1d2e689e2c.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/understanding-inflation-how-to-safeguard-your-savings/",
+      "source_paths": [
+        "/p/understanding-inflation-how-to-safeguard-your-savings/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345050",
+      "slug": "heredar-y-administrar-consejos-esenciales-para-el-patrimonio",
+      "lang": "es",
+      "title": "Heredar y Administrar: Consejos Esenciales para el Patrimonio",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715582309-84cd6362b59cf8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/heredar-y-administrar-consejos-esenciales-para-el-patrimonio/",
+      "source_paths": [
+        "/es/p/heredar-y-administrar-consejos-esenciales-para-el-patrimonio/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "23012",
+      "slug": "data-analyst-professional-certificate-by-ibm",
+      "lang": "en",
+      "title": "IBM Data Analyst Certificate: The Full Guide to Getting Started",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/data-analyst-professional-certificate-by-ibm.png",
+      "product_id": "110",
+      "offer_id": "28",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/data-analyst-professional-certificate-by-ibm/",
+      "source_paths": [
+        "/e/data-analyst-professional-certificate-by-ibm/",
+        "/r/data-analyst-professional-certificate-by-ibm/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344984",
+      "slug": "future-proof-your-finances-why-saving-matters-now",
+      "lang": "en",
+      "title": "Future-Proof Your Finances: Why Saving Matters Now",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715567417-e2c629575f0cd.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/future-proof-your-finances-why-saving-matters-now/",
+      "source_paths": [
+        "/p/future-proof-your-finances-why-saving-matters-now/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345107",
+      "slug": "planejamento-financeiro-o-primeiro-passo-para-a-tranquilidade",
+      "lang": "pt",
+      "title": "Planejamento Financeiro: O Primeiro Passo Para a Tranquilidade",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715606451-6b22fb89a8df2.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/planejamento-financeiro-o-primeiro-passo-para-a-tranquilidade/",
+      "source_paths": [
+        "/pt/p/planejamento-financeiro-o-primeiro-passo-para-a-tranquilidade/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344873",
+      "slug": "building-business-credit-a-guide-for-entrepreneurs",
+      "lang": "en",
+      "title": "Building Business Credit: A Guide for Entrepreneurs",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715537947-6aa4dc8d94ad18.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/building-business-credit-a-guide-for-entrepreneurs/",
+      "source_paths": [
+        "/p/building-business-credit-a-guide-for-entrepreneurs/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "22551",
+      "slug": "ilx-group-data-analytics-course",
+      "lang": "en",
+      "title": "ILX Group Data Analytics Course: The Full Guide",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/ilx-group-data-analytics-course.png",
+      "product_id": "108",
+      "offer_id": "28",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/ilx-group-data-analytics-course/",
+      "source_paths": [
+        "/e/ilx-group-data-analytics-course/",
+        "/r/ilx-group-data-analytics-course/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344891",
+      "slug": "debt-consolidation-demystified-finding-your-path-to-freedom",
+      "lang": "en",
+      "title": "Debt Consolidation Demystified: Finding Your Path to Freedom",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715544041-e59247f5435ec.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/debt-consolidation-demystified-finding-your-path-to-freedom/",
+      "source_paths": [
+        "/p/debt-consolidation-demystified-finding-your-path-to-freedom/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344894",
+      "slug": "mastering-micro-savings-the-compound-effect-of-small-changes",
+      "lang": "en",
+      "title": "Mastering Micro-Savings: The Compound Effect of Small Changes",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715544612-43592295827898.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/mastering-micro-savings-the-compound-effect-of-small-changes/",
+      "source_paths": [
+        "/p/mastering-micro-savings-the-compound-effect-of-small-changes/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344927",
+      "slug": "financial-independence-explained-your-roadmap-to-early-retirement",
+      "lang": "en",
+      "title": "Financial Independence Explained: Your Roadmap to Early Retirement",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715555087-cf4aae87c8ed58.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/financial-independence-explained-your-roadmap-to-early-retirement/",
+      "source_paths": [
+        "/p/financial-independence-explained-your-roadmap-to-early-retirement/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344793",
+      "slug": "risk-and-reward-making-informed-investment-decisions",
+      "lang": "en",
+      "title": "Risk and Reward: Making Informed Investment Decisions",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715513674-c9b2c5fe389ce.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/risk-and-reward-making-informed-investment-decisions/",
+      "source_paths": [
+        "/p/risk-and-reward-making-informed-investment-decisions/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "4625",
+      "slug": "american-express-personal-loans",
+      "lang": "en",
+      "title": "American Express’s Personal Loan: The Full Guide to Rates, Uses and Application",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/american-express-personal-loans.png",
+      "product_id": "47",
+      "offer_id": "9",
+      "offer": "loans",
+      "canonical_path": "/e/american-express-personal-loans/",
+      "source_paths": [
+        "/e/american-express-personal-loans/",
+        "/r/american-express-personal-loans/",
+        "/rb/american-express-personal-loans/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344824",
+      "slug": "from-debt-to-delight-repurposing-your-spending-habits",
+      "lang": "en",
+      "title": "From Debt to Delight: Repurposing Your Spending Habits",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715523123-e43dd98fb8dc08.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/from-debt-to-delight-repurposing-your-spending-habits/",
+      "source_paths": [
+        "/p/from-debt-to-delight-repurposing-your-spending-habits/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345047",
+      "slug": "optimize-your-outgoings-practical-ways-to-spend-less",
+      "lang": "en",
+      "title": "Optimize Your Outgoings: Practical Ways to Spend Less",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715581885-051e75670c5ad.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/optimize-your-outgoings-practical-ways-to-spend-less/",
+      "source_paths": [
+        "/p/optimize-your-outgoings-practical-ways-to-spend-less/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344998",
+      "slug": "mercado-de-divisas-oportunidad-o-riesgo-para-tu-dinero",
+      "lang": "es",
+      "title": "Mercado de Divisas: ¿Oportunidad o Riesgo para tu Dinero?",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715569985-074450bd6f30e8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/mercado-de-divisas-oportunidad-o-riesgo-para-tu-dinero/",
+      "source_paths": [
+        "/es/p/mercado-de-divisas-oportunidad-o-riesgo-para-tu-dinero/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345086",
+      "slug": "descontos-e-promocoes-como-aproveitar-sem-gastar-demais",
+      "lang": "pt",
+      "title": "Descontos e Promoções: Como Aproveitar Sem Gastar Demais",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715598194-2ee343410c5af.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/descontos-e-promocoes-como-aproveitar-sem-gastar-demais/",
+      "source_paths": [
+        "/pt/p/descontos-e-promocoes-como-aproveitar-sem-gastar-demais/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "10822",
+      "slug": "cours-de-marketing-digital-orsys",
+      "lang": "fr",
+      "title": "Le Cours De Marketing Digital D’Orsys: Le Guide Complet et Pratique",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cours-de-marketing-digital-orsys.png",
+      "product_id": "65",
+      "offer_id": "17",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cours-de-marketing-digital-orsys/",
+      "source_paths": [
+        "/r/cours-de-marketing-digital-orsys/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "23477",
+      "slug": "coursecarrers-course-in-data-analytics",
+      "lang": "en",
+      "title": "CourseCarrers Data Analytics Course: The Full Guide",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/coursecarrers-course-in-data-analytics.png",
+      "product_id": "107",
+      "offer_id": "28",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/coursecarrers-course-in-data-analytics/",
+      "source_paths": [
+        "/e/coursecarrers-course-in-data-analytics/",
+        "/r/coursecarrers-course-in-data-analytics/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345062",
+      "slug": "the-savings-snowball-accelerate-your-financial-goals",
+      "lang": "en",
+      "title": "The Savings Snowball: Accelerate Your Financial Goals",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715587728-910d5d75af9118.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-savings-snowball-accelerate-your-financial-goals/",
+      "source_paths": [
+        "/p/the-savings-snowball-accelerate-your-financial-goals/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "10151",
+      "slug": "cours-de-marketing-digital-par-l-universite-bpi-france",
+      "lang": "fr",
+      "title": "Cours De Marketing Digital De L’Université Bpi France: Le Guide Complet Pour Dirigeants et Entrepreneurs",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cours-de-marketing-digital-par-l-universite-bpi-france.png",
+      "product_id": "66",
+      "offer_id": "17",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cours-de-marketing-digital-par-l-universite-bpi-france/",
+      "source_paths": [
+        "/e/cours-de-marketing-digital-par-l-universite-bpi-france/",
+        "/r/cours-de-marketing-digital-par-l-universite-bpi-france/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344788",
+      "slug": "frugal-fun-enjoying-life-on-a-budget-without-sacrificing-joy",
+      "lang": "en",
+      "title": "Frugal Fun: Enjoying Life on a Budget Without Sacrificing Joy",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715513123-49d4eec5cfaab.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/frugal-fun-enjoying-life-on-a-budget-without-sacrificing-joy/",
+      "source_paths": [
+        "/p/frugal-fun-enjoying-life-on-a-budget-without-sacrificing-joy/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344872",
+      "slug": "side-hustle-savvy-boosting-your-income-streams",
+      "lang": "en",
+      "title": "Side Hustle Savvy: Boosting Your Income Streams",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715537219-bd9fd049109c78.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/side-hustle-savvy-boosting-your-income-streams/",
+      "source_paths": [
+        "/p/side-hustle-savvy-boosting-your-income-streams/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345018",
+      "slug": "creer-des-sources-de-revenus-passifs-la-voie-vers-labondance",
+      "lang": "fr",
+      "title": "Créer des sources de revenus passifs : la voie vers l'abondance",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715574678-1545016ade49d8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/fr/p/creer-des-sources-de-revenus-passifs-la-voie-vers-labondance/",
+      "source_paths": [
+        "/fr/p/creer-des-sources-de-revenus-passifs-la-voie-vers-labondance/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344963",
+      "slug": "o-segredo-dos-ricos-gastos-inteligentes-e-acumulacao",
+      "lang": "pt",
+      "title": "O Segredo dos Ricos: Gastos Inteligentes e Acumulação",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715563064-4b0e5d9d80c88.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/o-segredo-dos-ricos-gastos-inteligentes-e-acumulacao/",
+      "source_paths": [
+        "/pt/p/o-segredo-dos-ricos-gastos-inteligentes-e-acumulacao/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344989",
+      "slug": "elige-tu-banco-ideal-comparativa-de-servicios-y-comisiones",
+      "lang": "es",
+      "title": "Elige tu Banco Ideal: Comparativa de Servicios y Comisiones",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715568447-218c017cf6ca1.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/elige-tu-banco-ideal-comparativa-de-servicios-y-comisiones/",
+      "source_paths": [
+        "/es/p/elige-tu-banco-ideal-comparativa-de-servicios-y-comisiones/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345024",
+      "slug": "negociacion-salarial-valora-tu-trabajo-y-gana-mas",
+      "lang": "es",
+      "title": "Negociación Salarial: Valora tu Trabajo y Gana Más",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715575954-2cb29a70a936.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/negociacion-salarial-valora-tu-trabajo-y-gana-mas/",
+      "source_paths": [
+        "/es/p/negociacion-salarial-valora-tu-trabajo-y-gana-mas/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "12065",
+      "slug": "how-to-get-government-benefits",
+      "lang": "en",
+      "title": "How to Get Government Benefits Government: Everything You Need to Know to Access Programs",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/how-to-get-government-benefits-1770823138360.png",
+      "product_id": "94",
+      "offer_id": "25",
+      "offer": "benefits",
+      "canonical_path": "/e/how-to-get-government-benefits/",
+      "source_paths": [
+        "/e/how-to-get-government-benefits/",
+        "/r/how-to-get-government-benefits/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344940",
+      "slug": "negotiate-like-a-pro-saving-money-on-bills-and-services",
+      "lang": "en",
+      "title": "Negotiate Like a Pro: Saving Money on Bills and Services",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715557911-00bb4d37b0f708.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/negotiate-like-a-pro-saving-money-on-bills-and-services/",
+      "source_paths": [
+        "/p/negotiate-like-a-pro-saving-money-on-bills-and-services/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344999",
+      "slug": "bitcoin-e-criptomoedas-entenda-o-novo-mundo-das-financas-digitais",
+      "lang": "pt",
+      "title": "Bitcoin e Criptomoedas: Entenda o Novo Mundo das Finanças Digitais",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715570036-bae01c8b477b7.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/bitcoin-e-criptomoedas-entenda-o-novo-mundo-das-financas-digitais/",
+      "source_paths": [
+        "/pt/p/bitcoin-e-criptomoedas-entenda-o-novo-mundo-das-financas-digitais/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "19767",
+      "slug": "curso-online-de-ciencia-de-dados-fgv",
+      "lang": "pt",
+      "title": "Curso de Ciência de Dados da FGV: O Guia Completo para Começar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-online-de-ciencia-de-dados-fgv-1768308196604.png",
+      "product_id": "100",
+      "offer_id": "26",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-online-de-ciencia-de-dados-fgv/",
+      "source_paths": [
+        "/e/curso-online-de-ciencia-de-dados-fgv/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344809",
+      "slug": "financas-para-empreendedores-gerenciando-o-dinheiro-do-seu-negocio",
+      "lang": "pt",
+      "title": "Finanças para Empreendedores: Gerenciando o Dinheiro do Seu Negócio",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715518922-b45627714f991.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/financas-para-empreendedores-gerenciando-o-dinheiro-do-seu-negocio/",
+      "source_paths": [
+        "/pt/p/financas-para-empreendedores-gerenciando-o-dinheiro-do-seu-negocio/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "20216",
+      "slug": "curso-en-analisis-de-datos-inesem",
+      "lang": "es",
+      "title": "Curso de Data Science Inesem: La guía completa para convertirte en analista de datos",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-en-analisis-de-datos-inesem.png",
+      "product_id": "102",
+      "offer_id": "27",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-en-analisis-de-datos-inesem/",
+      "source_paths": [
+        "/e/curso-en-analisis-de-datos-inesem/",
+        "/r/curso-en-analisis-de-datos-inesem/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344750",
+      "slug": "tax-talk-simplified-what-you-need-to-know-for-your-finances",
+      "lang": "en",
+      "title": "Tax Talk Simplified: What You Need to Know for Your Finances",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715493539-2c4d58baed8718.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/tax-talk-simplified-what-you-need-to-know-for-your-finances/",
+      "source_paths": [
+        "/p/tax-talk-simplified-what-you-need-to-know-for-your-finances/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344783",
+      "slug": "the-smart-spenders-toolkit-essential-strategies-for-every-purchase",
+      "lang": "en",
+      "title": "The Smart Spender's Toolkit: Essential Strategies for Every Purchase",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715511582-da36bdfe63d2d.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-smart-spenders-toolkit-essential-strategies-for-every-purchase/",
+      "source_paths": [
+        "/p/the-smart-spenders-toolkit-essential-strategies-for-every-purchase/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344828",
+      "slug": "tu-jubilacion-en-tus-manos-empieza-a-ahorrar-hoy",
+      "lang": "es",
+      "title": "Tu jubilación en tus manos: Empieza a ahorrar hoy",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715524558-22cbce3a3e3e68.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/tu-jubilacion-en-tus-manos-empieza-a-ahorrar-hoy/",
+      "source_paths": [
+        "/es/p/tu-jubilacion-en-tus-manos-empieza-a-ahorrar-hoy/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344865",
+      "slug": "poupar-sem-abrir-mao-encontre-o-equilibrio-financeiro",
+      "lang": "pt",
+      "title": "Poupar sem Abrir Mão: Encontre o Equilíbrio Financeiro",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715535569-a4a36a113902c8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/poupar-sem-abrir-mao-encontre-o-equilibrio-financeiro/",
+      "source_paths": [
+        "/pt/p/poupar-sem-abrir-mao-encontre-o-equilibrio-financeiro/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344956",
+      "slug": "your-emergency-fund-building-a-financial-safety-net",
+      "lang": "en",
+      "title": "Your Emergency Fund: Building a Financial Safety Net",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715561494-cdb109effd6ee.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/your-emergency-fund-building-a-financial-safety-net/",
+      "source_paths": [
+        "/p/your-emergency-fund-building-a-financial-safety-net/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345030",
+      "slug": "small-changes-big-impact-your-guide-to-everyday-savings",
+      "lang": "en",
+      "title": "Small Changes, Big Impact: Your Guide to Everyday Savings",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715577590-254eed7c6005b8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/small-changes-big-impact-your-guide-to-everyday-savings/",
+      "source_paths": [
+        "/p/small-changes-big-impact-your-guide-to-everyday-savings/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "19048",
+      "slug": "curso-de-fundamentos-de-analise-de-dados-da-analise-macro",
+      "lang": "pt",
+      "title": "Curso de Fundamentos de Análise de Dados da Análise Macro: O Guia Completo para Começar em Ciência de Dados",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-de-fundamentos-de-analise-de-dados-da-analise-macro.png",
+      "product_id": "97",
+      "offer_id": "26",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-de-fundamentos-de-analise-de-dados-da-analise-macro/",
+      "source_paths": [
+        "/e/curso-de-fundamentos-de-analise-de-dados-da-analise-macro/",
+        "/r/curso-de-fundamentos-de-analise-de-dados-da-analise-macro/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "22075",
+      "slug": "cours-d-analyse-de-donnees-par-datagong",
+      "lang": "fr",
+      "title": "Cours d'Analyse de Données par Datagong: Le guide complet pour devenir Data Analyst",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cours-d-analyse-de-donnees-par-datagong.png",
+      "product_id": "116",
+      "offer_id": "30",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cours-d-analyse-de-donnees-par-datagong/",
+      "source_paths": [
+        "/e/cours-d-analyse-de-donnees-par-datagong/",
+        "/r/cours-d-analyse-de-donnees-par-datagong/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344742",
+      "slug": "beyond-the-budget-building-wealth-not-just-saving",
+      "lang": "en",
+      "title": "Beyond the Budget: Building Wealth, Not Just Saving",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715484711-8c6cbbbf6bd508.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/beyond-the-budget-building-wealth-not-just-saving/",
+      "source_paths": [
+        "/p/beyond-the-budget-building-wealth-not-just-saving/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344781",
+      "slug": "transforme-seus-habitos-rumo-a-uma-vida-financeira-mais-saudavel",
+      "lang": "pt",
+      "title": "Transforme Seus Hábitos: Rumo a uma Vida Financeira Mais Saudável",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715510694-7a40bd41ee2ee8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/transforme-seus-habitos-rumo-a-uma-vida-financeira-mais-saudavel/",
+      "source_paths": [
+        "/pt/p/transforme-seus-habitos-rumo-a-uma-vida-financeira-mais-saudavel/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344919",
+      "slug": "o-segredo-dos-ricos-habitos-financeiros-que-transformam-vidas",
+      "lang": "pt",
+      "title": "O Segredo dos Ricos: Hábitos Financeiros que Transformam Vidas",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715552851-3fc8981d52dc9.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/o-segredo-dos-ricos-habitos-financeiros-que-transformam-vidas/",
+      "source_paths": [
+        "/pt/p/o-segredo-dos-ricos-habitos-financeiros-que-transformam-vidas/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344922",
+      "slug": "automate-your-wealth-effortless-savings-tips",
+      "lang": "en",
+      "title": "Automate Your Wealth: Effortless Savings Tips",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715553718-8f92e25feb65c.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/automate-your-wealth-effortless-savings-tips/",
+      "source_paths": [
+        "/p/automate-your-wealth-effortless-savings-tips/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344987",
+      "slug": "the-debt-free-dream-how-saving-powers-your-escape",
+      "lang": "en",
+      "title": "The Debt-Free Dream: How Saving Powers Your Escape",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715568051-cd7eb772e72f28.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-debt-free-dream-how-saving-powers-your-escape/",
+      "source_paths": [
+        "/p/the-debt-free-dream-how-saving-powers-your-escape/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344993",
+      "slug": "planificacion-sucesoria-asegura-el-legado-familiar",
+      "lang": "es",
+      "title": "Planificación Sucesoria: Asegura el Legado Familiar",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715569408-cc6dec5f285d6.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/planificacion-sucesoria-asegura-el-legado-familiar/",
+      "source_paths": [
+        "/es/p/planificacion-sucesoria-asegura-el-legado-familiar/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345020",
+      "slug": "pensiones-y-retiro-tu-guia-para-una-vejez-tranquila",
+      "lang": "es",
+      "title": "Pensiones y Retiro: Tu Guía para una Vejez Tranquila",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715574827-5a368271ca6148.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/pensiones-y-retiro-tu-guia-para-una-vejez-tranquila/",
+      "source_paths": [
+        "/es/p/pensiones-y-retiro-tu-guia-para-una-vejez-tranquila/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345096",
+      "slug": "marketing-digital-para-financas-como-ganhar-dinheiro-online",
+      "lang": "pt",
+      "title": "Marketing Digital para Finanças: Como Ganhar Dinheiro Online",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715600905-757a3639d7bcb8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/marketing-digital-para-financas-como-ganhar-dinheiro-online/",
+      "source_paths": [
+        "/pt/p/marketing-digital-para-financas-como-ganhar-dinheiro-online/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "24183",
+      "slug": "credit-automobile-maaf",
+      "lang": "fr",
+      "title": "MAAF Crédit Auto: Le guide complet pour financer votre voiture",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/credit-automobile-maaf.png",
+      "product_id": "75",
+      "offer_id": "19",
+      "offer": "cars",
+      "canonical_path": "/e/credit-automobile-maaf/",
+      "source_paths": [
+        "/e/credit-automobile-maaf/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344877",
+      "slug": "estate-planning-explained-protecting-your-legacy-and-loved-ones",
+      "lang": "en",
+      "title": "Estate Planning Explained: Protecting Your Legacy and Loved Ones",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715539123-8a5aa212d65058.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/estate-planning-explained-protecting-your-legacy-and-loved-ones/",
+      "source_paths": [
+        "/p/estate-planning-explained-protecting-your-legacy-and-loved-ones/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344896",
+      "slug": "sustainable-spending-how-your-choices-impact-your-wallet-and-the-planet",
+      "lang": "en",
+      "title": "Sustainable Spending: How Your Choices Impact Your Wallet and the Planet",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715545187-ae80c847d48038.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/sustainable-spending-how-your-choices-impact-your-wallet-and-the-planet/",
+      "source_paths": [
+        "/p/sustainable-spending-how-your-choices-impact-your-wallet-and-the-planet/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344973",
+      "slug": "unlock-your-savings-potential-a-beginners-guide",
+      "lang": "en",
+      "title": "Unlock Your Savings Potential: A Beginner's Guide",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715564679-870c9de06eec28.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/unlock-your-savings-potential-a-beginners-guide/",
+      "source_paths": [
+        "/p/unlock-your-savings-potential-a-beginners-guide/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344976",
+      "slug": "planifica-tus-vacaciones-sin-desfinanciarte-guia-practica",
+      "lang": "es",
+      "title": "Planifica tus Vacaciones sin Desfinanciarte: Guía Práctica",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715565436-4dad1d4ee0fbd8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/planifica-tus-vacaciones-sin-desfinanciarte-guia-practica/",
+      "source_paths": [
+        "/es/p/planifica-tus-vacaciones-sin-desfinanciarte-guia-practica/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345069",
+      "slug": "analise-de-investimentos-ferramentas-essenciais-para-decisoes-inteligentes",
+      "lang": "pt",
+      "title": "Análise de Investimentos: Ferramentas Essenciais para Decisões Inteligentes",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715590081-091974b1b99e1.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/analise-de-investimentos-ferramentas-essenciais-para-decisoes-inteligentes/",
+      "source_paths": [
+        "/pt/p/analise-de-investimentos-ferramentas-essenciais-para-decisoes-inteligentes/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "13927",
+      "slug": "banque-populaire-pret-auto",
+      "lang": "fr",
+      "title": "Le Prêt Auto Banque Populaire: Le guide complet pour financer votre véhicule",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/banque-populaire-pret-auto.png",
+      "product_id": "77",
+      "offer_id": "19",
+      "offer": "cars",
+      "canonical_path": "/e/banque-populaire-pret-auto/",
+      "source_paths": [
+        "/r/banque-populaire-pret-auto/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "8950",
+      "slug": "ing-pret-personnel",
+      "lang": "fr",
+      "title": "ING Prêt Personnel: Le guide complet",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/ing-pret-personnel.png",
+      "product_id": "50",
+      "offer_id": "11",
+      "offer": "loans",
+      "canonical_path": "/e/ing-pret-personnel/",
+      "source_paths": [
+        "/r/ing-pret-personnel/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344739",
+      "slug": "retirement-reality-planning-for-your-golden-years-today",
+      "lang": "en",
+      "title": "Retirement Reality: Planning for Your Golden Years, Today",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715477224-5d32e5ea7dff2.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/retirement-reality-planning-for-your-golden-years-today/",
+      "source_paths": [
+        "/p/retirement-reality-planning-for-your-golden-years-today/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344741",
+      "slug": "wealth-building-hacks-uncommon-strategies-for-financial-success",
+      "lang": "en",
+      "title": "Wealth Building Hacks: Uncommon Strategies for Financial Success",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715482760-414683efcf10b8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/wealth-building-hacks-uncommon-strategies-for-financial-success/",
+      "source_paths": [
+        "/p/wealth-building-hacks-uncommon-strategies-for-financial-success/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344743",
+      "slug": "decoding-the-dollar-a-beginners-guide-to-financial-literacy",
+      "lang": "en",
+      "title": "Decoding the Dollar: A Beginner's Guide to Financial Literacy",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715486766-8f33660f01301.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/decoding-the-dollar-a-beginners-guide-to-financial-literacy/",
+      "source_paths": [
+        "/p/decoding-the-dollar-a-beginners-guide-to-financial-literacy/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344769",
+      "slug": "debt-demystified-strategies-for-a-zero-balance-future",
+      "lang": "en",
+      "title": "Debt Demystified: Strategies for a Zero-Balance Future",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715505601-30a0719c765de8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/debt-demystified-strategies-for-a-zero-balance-future/",
+      "source_paths": [
+        "/p/debt-demystified-strategies-for-a-zero-balance-future/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344784",
+      "slug": "reinventa-tus-habitos-ahorra-sin-darte-cuenta",
+      "lang": "es",
+      "title": "Reinventa tus hábitos: Ahorra sin darte cuenta",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715512154-aa826542b8c83.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/reinventa-tus-habitos-ahorra-sin-darte-cuenta/",
+      "source_paths": [
+        "/es/p/reinventa-tus-habitos-ahorra-sin-darte-cuenta/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344804",
+      "slug": "el-secreto-de-los-que-ahorran-mas-planificacion-estrategica",
+      "lang": "es",
+      "title": "El secreto de los que ahorran más: Planificación estratégica",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715517572-6e707585270f3.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/el-secreto-de-los-que-ahorran-mas-planificacion-estrategica/",
+      "source_paths": [
+        "/es/p/el-secreto-de-los-que-ahorran-mas-planificacion-estrategica/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344841",
+      "slug": "unlocking-credit-potential-a-practical-guide-to-boosting-your-score",
+      "lang": "en",
+      "title": "Unlocking Credit Potential: A Practical Guide to Boosting Your Score",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715530479-bdcd2881e42d8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/unlocking-credit-potential-a-practical-guide-to-boosting-your-score/",
+      "source_paths": [
+        "/p/unlocking-credit-potential-a-practical-guide-to-boosting-your-score/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344847",
+      "slug": "compras-inteligentes-maximiza-tu-dinero-en-cada-adquisicion",
+      "lang": "es",
+      "title": "Compras inteligentes: Maximiza tu dinero en cada adquisición",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715531315-4900b89fbf72.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/compras-inteligentes-maximiza-tu-dinero-en-cada-adquisicion/",
+      "source_paths": [
+        "/es/p/compras-inteligentes-maximiza-tu-dinero-en-cada-adquisicion/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344892",
+      "slug": "control-total-asume-el-mando-de-tu-dinero",
+      "lang": "es",
+      "title": "Control total: Asume el mando de tu dinero",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715544329-97718164ba7f2.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/control-total-asume-el-mando-de-tu-dinero/",
+      "source_paths": [
+        "/es/p/control-total-asume-el-mando-de-tu-dinero/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344906",
+      "slug": "automating-your-finances-set-it-and-forget-it-wealth-building",
+      "lang": "en",
+      "title": "Automating Your Finances: Set It and Forget It Wealth Building",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715548802-b9a533d85d2a8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/automating-your-finances-set-it-and-forget-it-wealth-building/",
+      "source_paths": [
+        "/p/automating-your-finances-set-it-and-forget-it-wealth-building/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344929",
+      "slug": "from-impulse-to-intentional-mastering-your-savings-habits",
+      "lang": "en",
+      "title": "From Impulse to Intentional: Mastering Your Savings Habits",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715555353-d1ed5140cb3d88.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/from-impulse-to-intentional-mastering-your-savings-habits/",
+      "source_paths": [
+        "/p/from-impulse-to-intentional-mastering-your-savings-habits/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344933",
+      "slug": "el-arte-de-negociar-salarios-consigue-lo-que-mereces",
+      "lang": "es",
+      "title": "El Arte de Negociar Salarios: Consigue lo que Mereces",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715556661-6a450bed0cc7b.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/el-arte-de-negociar-salarios-consigue-lo-que-mereces/",
+      "source_paths": [
+        "/es/p/el-arte-de-negociar-salarios-consigue-lo-que-mereces/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344936",
+      "slug": "multiply-your-money-smart-savings-strategies-revealed",
+      "lang": "en",
+      "title": "Multiply Your Money: Smart Savings Strategies Revealed",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715556754-efa2f9e11eea.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/multiply-your-money-smart-savings-strategies-revealed/",
+      "source_paths": [
+        "/p/multiply-your-money-smart-savings-strategies-revealed/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344947",
+      "slug": "genera-ingresos-extra-ideas-comprobadas-para-tu-bolsillo",
+      "lang": "es",
+      "title": "Genera Ingresos Extra: Ideas Comprobadas para tu Bolsillo",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715559792-93843feaead738.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/genera-ingresos-extra-ideas-comprobadas-para-tu-bolsillo/",
+      "source_paths": [
+        "/es/p/genera-ingresos-extra-ideas-comprobadas-para-tu-bolsillo/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344990",
+      "slug": "credito-inteligente-construye-un-historial-financiero-solido",
+      "lang": "es",
+      "title": "Crédito Inteligente: Construye un Historial Financiero Sólido",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715568781-cb1f84dcd99178.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/credito-inteligente-construye-un-historial-financiero-solido/",
+      "source_paths": [
+        "/es/p/credito-inteligente-construye-un-historial-financiero-solido/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345008",
+      "slug": "impuestos-sin-estres-entiende-y-optimiza-tus-declaraciones",
+      "lang": "es",
+      "title": "Impuestos sin Estrés: Entiende y Optimiza tus Declaraciones",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715571911-13143e64830b68.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/impuestos-sin-estres-entiende-y-optimiza-tus-declaraciones/",
+      "source_paths": [
+        "/es/p/impuestos-sin-estres-entiende-y-optimiza-tus-declaraciones/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345010",
+      "slug": "the-art-of-strategic-saving-more-than-just-stashing-cash",
+      "lang": "en",
+      "title": "The Art of Strategic Saving: More Than Just Stashing Cash",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715572257-2bb3285a4d8128.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-art-of-strategic-saving-more-than-just-stashing-cash/",
+      "source_paths": [
+        "/p/the-art-of-strategic-saving-more-than-just-stashing-cash/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345026",
+      "slug": "adeus-desperdicio-como-fazer-seu-dinheiro-render-mais",
+      "lang": "pt",
+      "title": "Adeus Desperdício: Como Fazer Seu Dinheiro Render Mais",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715576891-9a700a56a926d.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/adeus-desperdicio-como-fazer-seu-dinheiro-render-mais/",
+      "source_paths": [
+        "/pt/p/adeus-desperdicio-como-fazer-seu-dinheiro-render-mais/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345049",
+      "slug": "proteja-seu-patrimonio-estrategias-essenciais-de-seguranca-financeira",
+      "lang": "pt",
+      "title": "Proteja Seu Patrimônio: Estratégias Essenciais de Segurança Financeira",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715582543-7bb389568a6108.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/proteja-seu-patrimonio-estrategias-essenciais-de-seguranca-financeira/",
+      "source_paths": [
+        "/pt/p/proteja-seu-patrimonio-estrategias-essenciais-de-seguranca-financeira/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345058",
+      "slug": "criptomoedas-para-leigos-entenda-e-comece-a-investir",
+      "lang": "pt",
+      "title": "Criptomoedas para Leigos: Entenda e Comece a Investir",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715586427-181309168f21e.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/criptomoedas-para-leigos-entenda-e-comece-a-investir/",
+      "source_paths": [
+        "/pt/p/criptomoedas-para-leigos-entenda-e-comece-a-investir/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345099",
+      "slug": "poupe-sem-sacrificio-otimizando-gastos-essenciais",
+      "lang": "pt",
+      "title": "Poupe Sem Sacrifício: Otimizando Gastos Essenciais",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715603017-24b2f699aadbe8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/poupe-sem-sacrificio-otimizando-gastos-essenciais/",
+      "source_paths": [
+        "/pt/p/poupe-sem-sacrificio-otimizando-gastos-essenciais/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "10582",
+      "slug": "cours-de-marketing-digital-par-le-media-institute",
+      "lang": "fr",
+      "title": "Cours De Marketing Digital Media Institute: Le guide complet pour maîtriser le marketing digital",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cours-de-marketing-digital-par-le-media-institute.png",
+      "product_id": "67",
+      "offer_id": "17",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cours-de-marketing-digital-par-le-media-institute/",
+      "source_paths": [
+        "/r/cours-de-marketing-digital-par-le-media-institute/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "12762",
+      "slug": "financiamento-auto-volkswagen",
+      "lang": "pt",
+      "title": "Financiamento Auto Volkswagen: Guia Completo para Comprar seu Carro",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiamento-auto-volkswagen-1766152500493.png",
+      "product_id": "70",
+      "offer_id": "18",
+      "offer": "cars",
+      "canonical_path": "/e/financiamento-auto-volkswagen/",
+      "source_paths": [
+        "/e/financiamento-auto-volkswagen/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "13223",
+      "slug": "financiamento-de-veiculos-banco-daycoval",
+      "lang": "pt",
+      "title": "Financiamento de Veículos Daycoval: O Guia Completo",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/financiamento-de-veiculos-banco-daycoval.png",
+      "product_id": "73",
+      "offer_id": "18",
+      "offer": "cars",
+      "canonical_path": "/e/financiamento-de-veiculos-banco-daycoval/",
+      "source_paths": [
+        "/e/financiamento-de-veiculos-banco-daycoval/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "18588",
+      "slug": "comprar-eletrodomesticos-carrefour",
+      "lang": "pt",
+      "title": "Comprar Eletrodomésticos na Loja Carrefour: Tudo o que Você Precisa Saber",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/comprar-eletrodomesticos-carrefour.png",
+      "product_id": "114",
+      "offer_id": "23",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/comprar-eletrodomesticos-carrefour/",
+      "source_paths": [
+        "/r/comprar-eletrodomesticos-carrefour/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "18821",
+      "slug": "curso-online-de-analise-de-dados-da-preditiva",
+      "lang": "pt",
+      "title": "Curso Online de Análise de Dados da Preditiva: Tudo o Que Você Precisa Saber",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/curso-online-de-analise-de-dados-da-preditiva.png",
+      "product_id": "96",
+      "offer_id": "26",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/curso-online-de-analise-de-dados-da-preditiva/",
+      "source_paths": [
+        "/e/curso-online-de-analise-de-dados-da-preditiva/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "21615",
+      "slug": "formation-data-analyst-par-la-capsule",
+      "lang": "fr",
+      "title": "La Capsule Formation en Data Analytics: Le guide complet pour devenir Data Analyst en 10 semaines",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/formation-data-analyst-par-la-capsule.png",
+      "product_id": "119",
+      "offer_id": "30",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/formation-data-analyst-par-la-capsule/",
+      "source_paths": [
+        "/e/formation-data-analyst-par-la-capsule/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "21850",
+      "slug": "cours-de-data-analytics-par-afpa",
+      "lang": "fr",
+      "title": "Cours de Data Analytics par Afpa: Le guide complet pour devenir Data Analyst",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/cours-de-data-analytics-par-afpa.png",
+      "product_id": "120",
+      "offer_id": "30",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/cours-de-data-analytics-par-afpa/",
+      "source_paths": [
+        "/e/cours-de-data-analytics-par-afpa/",
+        "/r/cours-de-data-analytics-par-afpa/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "22781",
+      "slug": "york-university-certificate-in-data-analytics",
+      "lang": "en",
+      "title": "Data Analytics Certificate by York University: The Full Guide to Big Data Skills",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/york-university-certificate-in-data-analytics.png",
+      "product_id": "109",
+      "offer_id": "28",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/york-university-certificate-in-data-analytics/",
+      "source_paths": [
+        "/e/york-university-certificate-in-data-analytics/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "23250",
+      "slug": "emprestimo-consignado-clt-do-nubank",
+      "lang": "pt",
+      "title": "Empréstimo Consignado do Nubank: O Guia Completo para Trabalhadores CLT",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/emprestimo-consignado-clt-do-nubank.png",
+      "product_id": "83",
+      "offer_id": "22",
+      "offer": "loans",
+      "canonical_path": "/e/emprestimo-consignado-clt-do-nubank/",
+      "source_paths": [
+        "/e/emprestimo-consignado-clt-do-nubank/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "30301",
+      "slug": "economizar-na-compra-de-produtos-na-shopee",
+      "lang": "pt",
+      "title": "Economizar na Compra de Produtos na Shopee: Comprar Produtos Baratos Shopee O Guia Completo",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/economizar-na-compra-de-produtos-na-shopee-1777489584817.png",
+      "product_id": "140",
+      "offer_id": "35",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/economizar-na-compra-de-produtos-na-shopee/",
+      "source_paths": [
+        "/e/economizar-na-compra-de-produtos-na-shopee/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "5084",
+      "slug": "u-s-bank-s-simple-loan",
+      "lang": "en",
+      "title": "Simple Loan from US Bank: The Full Guide to a Fast Small-Dollar Loan",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/u-s-bank-s-simple-loan-1767695516448.png",
+      "product_id": "43",
+      "offer_id": "9",
+      "offer": "loans",
+      "canonical_path": "/e/u-s-bank-s-simple-loan/",
+      "source_paths": [
+        "/r/u-s-bank-s-simple-loan/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "9123",
+      "slug": "pret-personnel-de-beobank",
+      "lang": "fr",
+      "title": "Prêt Personnel par Beobank: Le guide complet du prêt Confort Plus",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/pret-personnel-de-beobank.png",
+      "product_id": "45",
+      "offer_id": "11",
+      "offer": "loans",
+      "canonical_path": "/e/pret-personnel-de-beobank/",
+      "source_paths": [
+        "/r/pret-personnel-de-beobank/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344746",
+      "slug": "the-art-of-allocation-smart-investing-for-every-goal",
+      "lang": "en",
+      "title": "The Art of Allocation: Smart Investing for Every Goal",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715489984-05032c6ccbac8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-art-of-allocation-smart-investing-for-every-goal/",
+      "source_paths": [
+        "/p/the-art-of-allocation-smart-investing-for-every-goal/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344752",
+      "slug": "liberdade-financeira-o-caminho-para-sair-das-dividas-e-prosperar",
+      "lang": "pt",
+      "title": "Liberdade Financeira: O Caminho para Sair das Dívidas e Prosperar",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715495835-4aaf317768e5d8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/liberdade-financeira-o-caminho-para-sair-das-dividas-e-prosperar/",
+      "source_paths": [
+        "/pt/p/liberdade-financeira-o-caminho-para-sair-das-dividas-e-prosperar/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344754",
+      "slug": "credito-inteligente-usando-o-emprestimo-a-seu-favor-nao-contra-voce",
+      "lang": "pt",
+      "title": "Crédito Inteligente: Usando o Empréstimo a Seu Favor, Não Contra Você",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715496394-9cc6d85a39c0f.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/credito-inteligente-usando-o-emprestimo-a-seu-favor-nao-contra-voce/",
+      "source_paths": [
+        "/pt/p/credito-inteligente-usando-o-emprestimo-a-seu-favor-nao-contra-voce/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344756",
+      "slug": "navigating-the-market-understanding-stocks-bonds-and-beyond",
+      "lang": "en",
+      "title": "Navigating the Market: Understanding Stocks, Bonds, and Beyond",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715497296-4bb8a10ec9129.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/navigating-the-market-understanding-stocks-bonds-and-beyond/",
+      "source_paths": [
+        "/p/navigating-the-market-understanding-stocks-bonds-and-beyond/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344758",
+      "slug": "the-psychology-of-saving-outsmarting-your-own-wallet",
+      "lang": "en",
+      "title": "The Psychology of Saving: Outsmarting Your Own Wallet",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715499637-804239a6969fa8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-psychology-of-saving-outsmarting-your-own-wallet/",
+      "source_paths": [
+        "/p/the-psychology-of-saving-outsmarting-your-own-wallet/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344766",
+      "slug": "de-la-quincena-al-exito-como-ahorrar-de-forma-consistente",
+      "lang": "es",
+      "title": "De la quincena al éxito: Cómo ahorrar de forma consistente",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715504991-688b2e19d1b1b8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/de-la-quincena-al-exito-como-ahorrar-de-forma-consistente/",
+      "source_paths": [
+        "/es/p/de-la-quincena-al-exito-como-ahorrar-de-forma-consistente/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344768",
+      "slug": "smart-spending-habits-maximizing-your-moneys-potential",
+      "lang": "en",
+      "title": "Smart Spending Habits: Maximizing Your Money's Potential",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715505462-ec32fec337e848.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/smart-spending-habits-maximizing-your-moneys-potential/",
+      "source_paths": [
+        "/p/smart-spending-habits-maximizing-your-moneys-potential/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344779",
+      "slug": "ahorros-automatizados-haz-que-tu-dinero-trabaje-para-ti",
+      "lang": "es",
+      "title": "Ahorros automatizados: Haz que tu dinero trabaje para ti",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715508985-05e81d19ca4cd.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/ahorros-automatizados-haz-que-tu-dinero-trabaje-para-ti/",
+      "source_paths": [
+        "/es/p/ahorros-automatizados-haz-que-tu-dinero-trabaje-para-ti/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344790",
+      "slug": "planejamento-financeiro-pessoal-construindo-uma-vida-sem-preocupacoes",
+      "lang": "pt",
+      "title": "Planejamento Financeiro Pessoal: Construindo uma Vida Sem Preocupações",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715513380-d4a9901a7f4988.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/planejamento-financeiro-pessoal-construindo-uma-vida-sem-preocupacoes/",
+      "source_paths": [
+        "/pt/p/planejamento-financeiro-pessoal-construindo-uma-vida-sem-preocupacoes/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344811",
+      "slug": "investing-101-your-first-steps-to-financial-growth",
+      "lang": "en",
+      "title": "Investing 101: Your First Steps to Financial Growth",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715519207-ce9fe796b9c8f.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/investing-101-your-first-steps-to-financial-growth/",
+      "source_paths": [
+        "/p/investing-101-your-first-steps-to-financial-growth/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344831",
+      "slug": "beyond-budgeting-hacking-your-habits-for-financial-freedom",
+      "lang": "en",
+      "title": "Beyond Budgeting: Hacking Your Habits for Financial Freedom",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715526808-c240181663eb78.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/beyond-budgeting-hacking-your-habits-for-financial-freedom/",
+      "source_paths": [
+        "/p/beyond-budgeting-hacking-your-habits-for-financial-freedom/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344837",
+      "slug": "seu-futuro-comeca-aqui-o-valor-da-poupanca",
+      "lang": "pt",
+      "title": "Seu Futuro Começa Aqui: O Valor da Poupança",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715529131-730f9a3651fce.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/seu-futuro-comeca-aqui-o-valor-da-poupanca/",
+      "source_paths": [
+        "/pt/p/seu-futuro-comeca-aqui-o-valor-da-poupanca/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344844",
+      "slug": "from-novice-to-investor-understanding-the-stock-market-basics",
+      "lang": "en",
+      "title": "From Novice to Investor: Understanding the Stock Market Basics",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715531189-c5420810cf4a88.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/from-novice-to-investor-understanding-the-stock-market-basics/",
+      "source_paths": [
+        "/p/from-novice-to-investor-understanding-the-stock-market-basics/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344851",
+      "slug": "micro-investir-commencer-petit-penser-grand",
+      "lang": "fr",
+      "title": "Micro-investir : commencer petit, penser grand",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715532398-c4b704c156d4c.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/fr/p/micro-investir-commencer-petit-penser-grand/",
+      "source_paths": [
+        "/fr/p/micro-investir-commencer-petit-penser-grand/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344883",
+      "slug": "subscription-creep-how-to-audit-and-eliminate-unseen-drains",
+      "lang": "en",
+      "title": "Subscription Creep: How to Audit and Eliminate Unseen Drains",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715540569-a878d596c1e938.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/subscription-creep-how-to-audit-and-eliminate-unseen-drains/",
+      "source_paths": [
+        "/p/subscription-creep-how-to-audit-and-eliminate-unseen-drains/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344893",
+      "slug": "el-poder-de-la-planificacion-gastos-bajo-control",
+      "lang": "es",
+      "title": "El poder de la planificación: Gastos bajo control",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715544339-5e180a4f993c7.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/el-poder-de-la-planificacion-gastos-bajo-control/",
+      "source_paths": [
+        "/es/p/el-poder-de-la-planificacion-gastos-bajo-control/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344915",
+      "slug": "compras-por-impulso-estrategias-para-dizer-nao",
+      "lang": "pt",
+      "title": "Compras por Impulso: Estratégias Para Dizer Não",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715551521-f5f3ce13f3b2a8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/compras-por-impulso-estrategias-para-dizer-nao/",
+      "source_paths": [
+        "/pt/p/compras-por-impulso-estrategias-para-dizer-nao/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344920",
+      "slug": "tecnologia-a-seu-favor-apps-para-controlar-seus-gastos",
+      "lang": "pt",
+      "title": "Tecnologia a Seu Favor: Apps Para Controlar Seus Gastos",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715553028-23f457a05a9c58.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/tecnologia-a-seu-favor-apps-para-controlar-seus-gastos/",
+      "source_paths": [
+        "/pt/p/tecnologia-a-seu-favor-apps-para-controlar-seus-gastos/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344921",
+      "slug": "poupanca-inteligente-maximizando-seus-rendimentos",
+      "lang": "pt",
+      "title": "Poupança Inteligente: Maximizando seus Rendimentos",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715553448-507d63671dcfa.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/poupanca-inteligente-maximizando-seus-rendimentos/",
+      "source_paths": [
+        "/pt/p/poupanca-inteligente-maximizando-seus-rendimentos/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344931",
+      "slug": "the-ultimate-guide-to-crushing-debt-strategies-that-work",
+      "lang": "en",
+      "title": "The Ultimate Guide to Crushing Debt: Strategies That Work",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715555846-7361a282bedb78.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-ultimate-guide-to-crushing-debt-strategies-that-work/",
+      "source_paths": [
+        "/p/the-ultimate-guide-to-crushing-debt-strategies-that-work/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344934",
+      "slug": "desbloquea-tu-potencial-de-ahorro-metodos-infalibles",
+      "lang": "es",
+      "title": "Desbloquea tu potencial de ahorro: Métodos infalibles",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715556660-1e3399dc8b8ab8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/desbloquea-tu-potencial-de-ahorro-metodos-infalibles/",
+      "source_paths": [
+        "/es/p/desbloquea-tu-potencial-de-ahorro-metodos-infalibles/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344943",
+      "slug": "beyond-the-piggy-bank-advanced-savings-techniques",
+      "lang": "en",
+      "title": "Beyond the Piggy Bank: Advanced Savings Techniques",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715558947-732324c63ca578.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/beyond-the-piggy-bank-advanced-savings-techniques/",
+      "source_paths": [
+        "/p/beyond-the-piggy-bank-advanced-savings-techniques/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344948",
+      "slug": "la-psicologia-del-dinero-supera-creencias-limitantes",
+      "lang": "es",
+      "title": "La Psicología del Dinero: Supera Creencias Limitantes",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715559979-5b3585c3dfe2b8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/la-psicologia-del-dinero-supera-creencias-limitantes/",
+      "source_paths": [
+        "/es/p/la-psicologia-del-dinero-supera-creencias-limitantes/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344951",
+      "slug": "consumo-inteligente-mais-valor-pelo-seu-dinheiro",
+      "lang": "pt",
+      "title": "Consumo Inteligente: Mais Valor Pelo Seu Dinheiro",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715560218-053a80075df4b.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/consumo-inteligente-mais-valor-pelo-seu-dinheiro/",
+      "source_paths": [
+        "/pt/p/consumo-inteligente-mais-valor-pelo-seu-dinheiro/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344952",
+      "slug": "educacion-financiera-para-ninos-sembrando-el-futuro",
+      "lang": "es",
+      "title": "Educación Financiera para Niños: Sembrando el Futuro",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715560202-a455f538151dd.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/educacion-financiera-para-ninos-sembrando-el-futuro/",
+      "source_paths": [
+        "/es/p/educacion-financiera-para-ninos-sembrando-el-futuro/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344960",
+      "slug": "lepargne-intelligente-faire-fructifier-son-argent-au-quotidien",
+      "lang": "fr",
+      "title": "L'épargne intelligente: Faire fructifier son argent au quotidien",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715562244-3aadc3b3f5dc98.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/fr/p/lepargne-intelligente-faire-fructifier-son-argent-au-quotidien/",
+      "source_paths": [
+        "/fr/p/lepargne-intelligente-faire-fructifier-son-argent-au-quotidien/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344969",
+      "slug": "viva-bem-gastando-menos-segredos-de-um-orcamento-eficaz",
+      "lang": "pt",
+      "title": "Viva Bem Gastando Menos: Segredos de um Orçamento Eficaz",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715564257-8a235981223638.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/pt/p/viva-bem-gastando-menos-segredos-de-um-orcamento-eficaz/",
+      "source_paths": [
+        "/pt/p/viva-bem-gastando-menos-segredos-de-um-orcamento-eficaz/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344971",
+      "slug": "mas-alla-del-cochinito-inversiones-inteligentes-para-tus-ahorros",
+      "lang": "es",
+      "title": "Más allá del cochinito: Inversiones inteligentes para tus ahorros",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715564483-3f0525fa643db8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/mas-alla-del-cochinito-inversiones-inteligentes-para-tus-ahorros/",
+      "source_paths": [
+        "/es/p/mas-alla-del-cochinito-inversiones-inteligentes-para-tus-ahorros/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "344997",
+      "slug": "cutting-costs-not-joy-smart-ways-to-save-without-sacrificing",
+      "lang": "en",
+      "title": "Cutting Costs, Not Joy: Smart Ways to Save Without Sacrificing",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715569976-1558aec87ba3a.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/cutting-costs-not-joy-smart-ways-to-save-without-sacrificing/",
+      "source_paths": [
+        "/p/cutting-costs-not-joy-smart-ways-to-save-without-sacrificing/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345017",
+      "slug": "liberate-del-consumo-impulsivo-compra-con-conciencia",
+      "lang": "es",
+      "title": "Libérate del Consumo Impulsivo: Compra con Conciencia",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715574650-8fdf5366f69cb.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/liberate-del-consumo-impulsivo-compra-con-conciencia/",
+      "source_paths": [
+        "/es/p/liberate-del-consumo-impulsivo-compra-con-conciencia/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345028",
+      "slug": "evita-estafas-financieras-senales-de-alerta-y-como-protegerte",
+      "lang": "es",
+      "title": "Evita Estafas Financieras: Señales de Alerta y Cómo Protegerte",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715577033-936ab351be7d28.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/evita-estafas-financieras-senales-de-alerta-y-como-protegerte/",
+      "source_paths": [
+        "/es/p/evita-estafas-financieras-senales-de-alerta-y-como-protegerte/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345074",
+      "slug": "el-arte-de-ahorrar-estrategias-creativas-para-cualquier-bolsillo",
+      "lang": "es",
+      "title": "El Arte de Ahorrar: Estrategias Creativas para Cualquier Bolsillo",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715592481-5197cbc09d0c88.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/el-arte-de-ahorrar-estrategias-creativas-para-cualquier-bolsillo/",
+      "source_paths": [
+        "/es/p/el-arte-de-ahorrar-estrategias-creativas-para-cualquier-bolsillo/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345079",
+      "slug": "save-smarter-not-harder-time-saving-financial-hacks",
+      "lang": "en",
+      "title": "Save Smarter, Not Harder: Time-Saving Financial Hacks",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715594950-0bd3311828fe9.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/save-smarter-not-harder-time-saving-financial-hacks/",
+      "source_paths": [
+        "/p/save-smarter-not-harder-time-saving-financial-hacks/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345101",
+      "slug": "el-camino-hacia-la-riqueza-empieza-por-tus-gastos-diarios",
+      "lang": "es",
+      "title": "El camino hacia la riqueza: Empieza por tus gastos diarios",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715603389-c4b5e108cad9c.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/es/p/el-camino-hacia-la-riqueza-empieza-por-tus-gastos-diarios/",
+      "source_paths": [
+        "/es/p/el-camino-hacia-la-riqueza-empieza-por-tus-gastos-diarios/"
+      ]
+    },
+    {
+      "source": "metacms",
+      "source_domain": "guide-flow.org",
+      "source_id": "345105",
+      "slug": "the-art-of-negotiation-getting-the-best-deals-on-everything",
+      "lang": "en",
+      "title": "The Art of Negotiation: Getting the Best Deals on Everything",
+      "image": "https://hide-arb-cms-cdn.highstakes.tech/guide-flow.org/1786715605889-0eb5214a8f45f8.png",
+      "product_id": null,
+      "offer_id": null,
+      "offer": null,
+      "canonical_path": "/en/p/the-art-of-negotiation-getting-the-best-deals-on-everything/",
+      "source_paths": [
+        "/p/the-art-of-negotiation-getting-the-best-deals-on-everything/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "18350",
+      "slug": "comprar-eletrodomesticos-na-americanas",
+      "lang": "pt",
+      "title": "Comprar Eletrodomésticos na Loja Americanas: Guia Completo para Escolher e Economizar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/comprar-eletrodomesticos-na-americanas-1770646371113.png",
+      "product_id": "113",
+      "offer_id": "23",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/comprar-eletrodomesticos-na-americanas/",
+      "source_paths": [
+        "/r/comprar-eletrodomesticos-na-americanas/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "4932",
+      "slug": "personal-loan-from-american-bank",
+      "lang": "en",
+      "title": "American Bank’s Personal Loan: Everything You Need to Know",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/personal-loan-from-american-bank.png",
+      "product_id": "46",
+      "offer_id": "9",
+      "offer": "loans",
+      "canonical_path": "/e/personal-loan-from-american-bank/",
+      "source_paths": [
+        "/r/personal-loan-from-american-bank/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "5158",
+      "slug": "personal-loans-citibank",
+      "lang": "en",
+      "title": "Citibank Personal Credit: The Full Guide to Personal Loans",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/personal-loans-citibank.png",
+      "product_id": "41",
+      "offer_id": "9",
+      "offer": "loans",
+      "canonical_path": "/e/personal-loans-citibank/",
+      "source_paths": [
+        "/r/personal-loans-citibank/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "5862",
+      "slug": "recibir-el-beneficios-del-gobierno",
+      "lang": "es",
+      "title": "Cómo Obtener Beneficios Gubernamentales: La Guía Completa 2026",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/recibir-el-beneficios-del-gobierno-1767359271774.png",
+      "product_id": "38",
+      "offer_id": "13",
+      "offer": "benefits",
+      "canonical_path": "/e/recibir-el-beneficios-del-gobierno/",
+      "source_paths": [
+        "/r/recibir-el-beneficios-del-gobierno/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "13467",
+      "slug": "bnp-paribas-pret-auto",
+      "lang": "fr",
+      "title": "BNP Paribas Prêt Auto: Le guide complet pour financer votre voiture",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/bnp-paribas-pret-auto.png",
+      "product_id": "74",
+      "offer_id": "19",
+      "offer": "cars",
+      "canonical_path": "/e/bnp-paribas-pret-auto/",
+      "source_paths": [
+        "/r/bnp-paribas-pret-auto/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "9198",
+      "slug": "bnp-paribas-pret-projets",
+      "lang": "fr",
+      "title": "BNP Paribas Prêt Projets: Le guide complet",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/bnp-paribas-pret-projets-1765804038164.png",
+      "product_id": "49",
+      "offer_id": "11",
+      "offer": "loans",
+      "canonical_path": "/e/bnp-paribas-pret-projets/",
+      "source_paths": [
+        "/r/bnp-paribas-pret-projets/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "21156",
+      "slug": "formation-de-data-analyst-wild-code-school",
+      "lang": "fr",
+      "title": "Formation de Data Analyst par Wild Code School: Le guide complet pour bien choisir",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/formation-de-data-analyst-wild-code-school.png",
+      "product_id": "117",
+      "offer_id": "30",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/formation-de-data-analyst-wild-code-school/",
+      "source_paths": [
+        "/r/formation-de-data-analyst-wild-code-school/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "13693",
+      "slug": "la-banque-postale-pret-personnel-auto",
+      "lang": "fr",
+      "title": "Prêt Auto La Banque Postale: Le guide complet pour financer votre véhicule",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/la-banque-postale-pret-personnel-auto-1769784262729.png",
+      "product_id": "76",
+      "offer_id": "19",
+      "offer": "cars",
+      "canonical_path": "/e/la-banque-postale-pret-personnel-auto/",
+      "source_paths": [
+        "/r/la-banque-postale-pret-personnel-auto/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "10328",
+      "slug": "le-cours-de-marketing-digital-de-coursera",
+      "lang": "fr",
+      "title": "Formation En Marketing Digital Coursera: Le Guide Complet pour Débuter",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/le-cours-de-marketing-digital-de-coursera.png",
+      "product_id": "64",
+      "offer_id": "17",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/le-cours-de-marketing-digital-de-coursera/",
+      "source_paths": [
+        "/r/le-cours-de-marketing-digital-de-coursera/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "12292",
+      "slug": "obtenir-des-aides-du-gouvernement",
+      "lang": "fr",
+      "title": "Obtenir des Aides du Gouvernement Gouvernement: Le guide complet pour tout savoir",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/obtenir-des-aides-du-gouvernement.png",
+      "product_id": "95",
+      "offer_id": "24",
+      "offer": "benefits",
+      "canonical_path": "/e/obtenir-des-aides-du-gouvernement/",
+      "source_paths": [
+        "/r/obtenir-des-aides-du-gouvernement/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "8879",
+      "slug": "pret-travaux-de-sofinco",
+      "lang": "fr",
+      "title": "Prêt Travaux de Sofinco: Le Guide Complet pour Financer Vos Rénovations",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/pret-travaux-de-sofinco.png",
+      "product_id": "48",
+      "offer_id": "11",
+      "offer": "loans",
+      "canonical_path": "/e/pret-travaux-de-sofinco/",
+      "source_paths": [
+        "/r/pret-travaux-de-sofinco/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "8483",
+      "slug": "pret-tresorerie-par-carrefour-banque",
+      "lang": "fr",
+      "title": "Prêt Trésorerie Carrefour Banque: Le guide complet pour financer vos projets",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/pret-tresorerie-par-carrefour-banque.png",
+      "product_id": "44",
+      "offer_id": "11",
+      "offer": "loans",
+      "canonical_path": "/e/pret-tresorerie-par-carrefour-banque/",
+      "source_paths": [
+        "/r/pret-tresorerie-par-carrefour-banque/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "14162",
+      "slug": "renault-financement-des-vehicules",
+      "lang": "fr",
+      "title": "Prêt Auto Renault: Le guide complet pour financer votre véhicule",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/renault-financement-des-vehicules.png",
+      "product_id": "78",
+      "offer_id": "19",
+      "offer": "cars",
+      "canonical_path": "/e/renault-financement-des-vehicules/",
+      "source_paths": [
+        "/r/renault-financement-des-vehicules/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "11079",
+      "slug": "shein-vous-offre-des-vetements-gratuits",
+      "lang": "fr",
+      "title": "Profitez De Vêtements Gratuits Chez Shein: Le Guide Complet Pour Obtenir des Essais Gratuits",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/shein-vous-offre-des-vetements-gratuits.png",
+      "product_id": "62",
+      "offer_id": "16",
+      "offer": "clothes",
+      "canonical_path": "/e/shein-vous-offre-des-vetements-gratuits/",
+      "source_paths": [
+        "/r/shein-vous-offre-des-vetements-gratuits/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "11831",
+      "slug": "como-ingressar-no-minha-casa-minha-vida",
+      "lang": "pt",
+      "title": "Como Ingressar no Minha Casa Minha Vida: O Guia Completo para Conseguir sua Casa Própria",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/como-ingressar-no-minha-casa-minha-vida.png",
+      "product_id": "121",
+      "offer_id": "29",
+      "offer": "benefits",
+      "canonical_path": "/e/como-ingressar-no-minha-casa-minha-vida/",
+      "source_paths": [
+        "/r/como-ingressar-no-minha-casa-minha-vida/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "6021",
+      "slug": "como-receber-beneficios-governamentais",
+      "lang": "pt",
+      "title": "Receber Benefícios do Governo Governo: O Guia Completo para Acessar Apoios e Direitos",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/como-receber-beneficios-governamentais.png",
+      "product_id": "27",
+      "offer_id": "5",
+      "offer": "benefits",
+      "canonical_path": "/e/como-receber-beneficios-governamentais/",
+      "source_paths": [
+        "/r/como-receber-beneficios-governamentais/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "17887",
+      "slug": "comprar-eletrodomesticos-na-electrolux",
+      "lang": "pt",
+      "title": "Eletrodomésticos Electrolux para Comprar: O Guia Completo para sua Casa",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/comprar-eletrodomesticos-na-electrolux.png",
+      "product_id": "111",
+      "offer_id": "23",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/comprar-eletrodomesticos-na-electrolux/",
+      "source_paths": [
+        "/r/comprar-eletrodomesticos-na-electrolux/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "17651",
+      "slug": "comprar-eletrodomesticos-na-magazine-luiza",
+      "lang": "pt",
+      "title": "Comprar Eletrodomésticos Magazine Luiza: O Guia Completo para Escolher, Economizar e Comprar com Segurança",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/comprar-eletrodomesticos-na-magazine-luiza.png",
+      "product_id": "115",
+      "offer_id": "23",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/comprar-eletrodomesticos-na-magazine-luiza/",
+      "source_paths": [
+        "/r/comprar-eletrodomesticos-na-magazine-luiza/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "18120",
+      "slug": "comprar-eletrodomesticos-no-ponto-frio",
+      "lang": "pt",
+      "title": "Comprar Eletrodomésticos na Loja Ponto Frio: O Guia Completo para Escolher e Economizar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/comprar-eletrodomesticos-no-ponto-frio-1771341792391.png",
+      "product_id": "112",
+      "offer_id": "23",
+      "offer": "digital-marketing",
+      "canonical_path": "/e/comprar-eletrodomesticos-no-ponto-frio/",
+      "source_paths": [
+        "/r/comprar-eletrodomesticos-no-ponto-frio/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "9660",
+      "slug": "conseguir-roupa-gratis-na-shein",
+      "lang": "pt",
+      "title": "Encontre Roupas Grátis Na Shein: O Guia Completo para Participar do Centro de Teste",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/conseguir-roupa-gratis-na-shein.png",
+      "product_id": "63",
+      "offer_id": "15",
+      "offer": "clothes",
+      "canonical_path": "/e/conseguir-roupa-gratis-na-shein/",
+      "source_paths": [
+        "/r/conseguir-roupa-gratis-na-shein/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "14618",
+      "slug": "emprestimo-bom-pra-credito",
+      "lang": "pt",
+      "title": "Empréstimo Bom Pra Crédito: O Guia Completo para Pedir e Comparar Ofertas",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/emprestimo-bom-pra-credito-1769437608670.png",
+      "product_id": "80",
+      "offer_id": "22",
+      "offer": "loans",
+      "canonical_path": "/e/emprestimo-bom-pra-credito/",
+      "source_paths": [
+        "/r/emprestimo-bom-pra-credito/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "14859",
+      "slug": "emprestimo-com-garantia-de-investimento-do-santander",
+      "lang": "pt",
+      "title": "Empréstimo com Garantia Banco Santander: O Guia Completo para Investidores",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/emprestimo-com-garantia-de-investimento-do-santander.png",
+      "product_id": "81",
+      "offer_id": "22",
+      "offer": "loans",
+      "canonical_path": "/e/emprestimo-com-garantia-de-investimento-do-santander/",
+      "source_paths": [
+        "/r/emprestimo-com-garantia-de-investimento-do-santander/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "14397",
+      "slug": "emprestimo-consignado-no-picpay",
+      "lang": "pt",
+      "title": "Empréstimo Consignado PicPay: Guia Completo para Contratar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/emprestimo-consignado-no-picpay.png",
+      "product_id": "79",
+      "offer_id": "22",
+      "offer": "loans",
+      "canonical_path": "/e/emprestimo-consignado-no-picpay/",
+      "source_paths": [
+        "/r/emprestimo-consignado-no-picpay/"
+      ]
+    },
+    {
+      "source": "metaoffers",
+      "source_domain": "mejorescreditos.org",
+      "source_id": "15093",
+      "slug": "piki-emprestimo-pessoal",
+      "lang": "pt",
+      "title": "Empréstimo Pessoal Piki: O Guia Completo para Entender, Comparar e Contratar",
+      "image": "https://meta-offers-images.highstakes.tech/mejorescreditos.org/piki-emprestimo-pessoal.png",
+      "product_id": "82",
+      "offer_id": "22",
+      "offer": "loans",
+      "canonical_path": "/e/piki-emprestimo-pessoal/",
+      "source_paths": [
+        "/r/piki-emprestimo-pessoal/"
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": "6aa813bcffab41b51a40ed39",
+      "slug": "autonation-what-should-you-check-before-buying-a-used-car",
+      "lang": "en",
+      "title": "AutoNation: What Should You Check Before Buying a Used Car?",
+      "source_paths": [
+        "/ai/l/autonation-what-should-you-check-before-buying-a-used-car/",
+        "/ai/p/autonation-what-should-you-check-before-buying-a-used-car/"
+      ],
+      "available": false
+    },
+    {
+      "id": "6abe50c99377afdf87e9a4e9",
+      "slug": "facebook-meta-muse-ai-que-hace-realmente",
+      "lang": "es",
+      "title": "Facebook / Meta Muse AI: ¿Qué Hace Realmente?",
+      "source_paths": [
+        "/ai/l/facebook-meta-muse-ai-que-hace-realmente/",
+        "/ai/p/facebook-meta-muse-ai-que-hace-realmente/"
+      ],
+      "available": false
+    },
+    {
+      "id": "69933af4279be6554efc3795",
+      "slug": "credit-card-with-pre-approved-limit-bonus",
+      "lang": "en",
+      "title": "How to Get a Credit Card with a Pre-Approved Limit and Welcome Bonus?",
+      "source_paths": [
+        "/ai/l/credit-card-with-pre-approved-limit-bonus/",
+        "/ai/p/credit-card-with-pre-approved-limit-bonus/"
+      ],
+      "available": false
+    },
+    {
+      "id": "69933972279be6554efc3787",
+      "slug": "how-to-get-free-products-shein-temu",
+      "lang": "en",
+      "title": "How to Receive Free Products from Sites Like Shein and Temu to Test?",
+      "source_paths": [
+        "/ai/l/how-to-get-free-products-shein-temu/"
+      ],
+      "available": false
+    },
+    {
+      "id": "6abd35bdffab41b51a59b7cd",
+      "slug": "facebook-meta-muse-ai-what-does-it-actually-do",
+      "lang": "en",
+      "title": "Facebook / Meta Muse AI: What Does It Actually Do?",
+      "source_paths": [
+        "/ai/l/facebook-meta-muse-ai-what-does-it-actually-do/"
+      ],
+      "available": false
+    }
+  ],
+  "catalog_import": {
+    "imported_at": "2026-10-16T11:35:19.270Z",
+    "catalog_url": "https://guide-flow.org/api/guide-flow/catalog.json",
+    "catalog_sha256": "8379f2e474850c5490be1b5234485cd41aa2be79ff5f2c8f1bd58531d015ede8",
+    "snapshot_directory": "arb-clickverso/test/fixtures/content",
+    "source_sha256": {
+      "bnp-paribas-pret-auto": "dbba1b1aee61b19d1a76192c74ecb789b20f0c191c537b5afaec2697e31e6c7b",
+      "formation-de-data-analyst-wild-code-school": "66770c64fc4fa9fecc40b7eccdc7eb6105e1180780f44642caf13f3378b90c0b",
+      "bnp-paribas-pret-projets": "a68adbb02d480cef256ccf36d0efc7abef9a0d53b18edeb0ea5e35a13d4ab3dd",
+      "recibir-el-beneficios-del-gobierno": "55b23b406e010a39ff62cd0d30ada0349018b09d5abfed5e32ebac80ee0fdd69",
+      "obtenir-des-aides-du-gouvernement": "9b178428d23f2d9d75d3de5ca16a30c792193dca04e4068c5480aa6f2f079cd0",
+      "la-banque-postale-pret-personnel-auto": "02b9f523ef1977f445f2b1533e57f789cd6a1a9c0267632507c5627af5eadbae",
+      "pret-travaux-de-sofinco": "02fc1fe9cfde1794a7b98b49edd6c565dadfab48b14a9d0c2f37c3d6c53e7729",
+      "le-cours-de-marketing-digital-de-coursera": "77e12fd446ca21ef60480868a8d11f0a3b8b7cefef24fa0016778f879b7701fe",
+      "como-ingressar-no-minha-casa-minha-vida": "72dd56b0a8599b5794a6643098358a25d9c1ea2c1d3a6cac7da986464ea246bf",
+      "pret-tresorerie-par-carrefour-banque": "2708edd670776ac0339df6c34b891a5f714b82ac93085e97b35b7ca2c3b2b1a3",
+      "renault-financement-des-vehicules": "2b4a93df7482c79078bcdd819bb5d96cf6d9937b3f38b4b43298cfe2c121ac21",
+      "shein-vous-offre-des-vetements-gratuits": "07e41203e258b84cb7ca4bcbaefbb714e0fadfbbfd4fc0f8b9d5669f7f89fee7",
+      "comprar-eletrodomesticos-no-ponto-frio": "5d9d87420fcf537221aae538a3b64825640325d9b9629358f27d27ddc8c8ad10",
+      "comprar-eletrodomesticos-na-electrolux": "5701cb744e92a9076a0bc2d1ed85a244768623aace0a69b813f9475bd85ec0c9",
+      "comprar-eletrodomesticos-na-magazine-luiza": "70554763c2267e817f14cf82622778a5154b61e886ed1bb8caeede4f3e24d3db",
+      "como-receber-beneficios-governamentais": "570b7eb32f2cf8e545166bd98f9ba94eb05667a3460831cca8fdde97d1c91c27",
+      "emprestimo-bom-pra-credito": "3bcdd6a8e7d82471b3cad456e3f9235875dca66811e9b8c888edf775f7305b40",
+      "emprestimo-consignado-no-picpay": "b51e6d222b73f510b02aef55784f72bee35cce782a6275c9caf73263b8262381",
+      "emprestimo-com-garantia-de-investimento-do-santander": "89ec34fa388da1e123d401fe2fc7b802fea42567c8be8df50ac9e4a9820b54bd",
+      "conseguir-roupa-gratis-na-shein": "55cf49fc379078ac3598b04afbe7c5bf383557d879de5164a1abd0e0966b44a9",
+      "piki-emprestimo-pessoal": "22561b8088b6af528b3e8b0d66ba23ae5529580533a78da53105b3a1ac3e015a"
+    }
+  }
+}

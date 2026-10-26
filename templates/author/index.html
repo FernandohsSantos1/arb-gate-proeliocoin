@@ -1,0 +1,32 @@
+<div class="main-content-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <section class="cover-wrap">
+                    <div class="archive-cover">
+                        <div class="cover-content-wrapper">
+                            <div class="avatar-wrap">
+                                <img class="avatar" src="{{avatar}}" alt="{{name}}">
+                            </div>
+                            <h1 class="author-name h3 text-center">{{name}}</h1>
+                            <div class="author-bio">
+                                {{bio}}
+                            </div>
+                            <div class="author-social">
+                                {{socialmedia}}
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                {{author.posts}}
+                
+                {{pagination}}
+            </div>
+            <div class="col-md-4">
+                <aside class="site-sidebar">
+                    {{sidebar}}
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>

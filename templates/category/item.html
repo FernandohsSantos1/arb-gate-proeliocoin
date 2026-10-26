@@ -1,0 +1,21 @@
+<div class="col-md-6 col-sm-6 post-list-item">
+    <article class="post">
+        <a href="{post.url}" aria-label="{post.title}">
+            <div class="post-img-wrap">
+                <img class="post-img" src="{post.featured_image}" alt="{post.title}">
+            </div>
+        </a>
+        <div class="post-content">
+            <div class="tag-wrap">
+                <a href="{category.url}" class="tag tag-small tc-nature">{category.title}</a>
+            </div>
+            <h2 class="post-title h4">
+                <a href="{post.url}">{post.title}</a>
+            </h2>
+            <div class="post-meta">
+                <time class="pub-date">{post.date}</time>
+                <span class="read-time">{post.readtime} {langconfig.readtime}</span>
+            </div>
+        </div>
+    </article>
+</div>

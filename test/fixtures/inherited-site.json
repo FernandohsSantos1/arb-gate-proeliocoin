@@ -1,0 +1,11 @@
+{
+	"id": "arb-clickverso",
+	"domain": "clickverso.net",
+	"name": "ClickVerso",
+	"cms_domain": "clickverso.net",
+	"cdn_domain": "cdn.clickverso.net",
+	"analytics": true,
+	"observe_only": true,
+	"experiment": null,
+	"revision": 1
+}

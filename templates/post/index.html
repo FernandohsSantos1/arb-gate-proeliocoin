@@ -1,0 +1,59 @@
+<div class="container">
+    <p>{ad_top}</p>
+    <div class="row">
+        <div class="col-md-8">
+            <main class="main-content-area">
+                <article class="post post-single">
+                    <header class="post-header">
+                        <div class="tag-wrap">
+                            <a href="{{category_url}}" class="tag tag-pill tc-nature">{{category_name}}</a>
+                        </div>
+                        <h1 class="post-title">{{title}}</h1>
+                        <div class="post-meta">
+                            <span class="author">
+                                {{langconfig.writtenby}}
+                                <a href="{{author_url}}">{{author_name}}</a>
+                            </span>
+                            <time class="pub-date">{{published_date}}</time>
+                            <span class="read-time">{{readtime}} {{post_readtime}}</span>
+                        </div>
+                    </header>
+                    <div class="post-img-wrap loading-bg">
+                        <img
+                            class="post-img entered loaded"
+                            src="{{image}}"
+                            alt="{{title}}"
+                            fetchpriority="high"
+                        >
+                    </div>
+                    <div class="post-content">
+                        <p>{ad_mid}</p>
+                        {{content}}
+                    </div>
+                </article>
+            </main>
+            <div class="about-author-wrap">
+                <div class="author-card">
+                    <div class="avatar-wrap">
+                        <a href="/a/{{author_slug}}" title="{{author_name}}">
+                            <img class="avatar" src="{{author_avatar}}" alt="{{author_name}}">
+                        </a>
+                    </div>
+                    <div class="author-info">
+                        <h3 class="name h5">
+                            {{langconfig.writtenby}}
+                            <a href="/a/{{author_slug}}">{{author_name}}</a>
+                        </h3>
+                        <div class="bio">
+                            {{author_short_bio}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{related}}
+        </div>
+        <div class="col-md-4">
+            {{sidebar}}
+        </div>
+    </div>
+</div>

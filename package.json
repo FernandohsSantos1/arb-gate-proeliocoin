@@ -1,11 +1,28 @@
 {
-	"name": "arb-test-b",
+	"name": "arb-gate-proeliocoin",
 	"private": true,
 	"scripts": {
-		"dev": "bun ../arb-test-base/node_modules/wrangler/bin/wrangler.js dev --port 8792",
-		"build": "bun ../arb-test-base/node_modules/wrangler/bin/wrangler.js deploy --dry-run --outdir .build",
-		"test": "bun test ../arb-test-base/test/sites.test.js",
-		"setup": "bun ../arb-test-base/experiments/setup.ts site.json",
-		"report": "bun ../arb-test-base/experiments/report.ts"
+		"dev": "node node_modules/wrangler/bin/wrangler.js dev --port 8792",
+		"build": "node node_modules/wrangler/bin/wrangler.js deploy --dry-run --outdir .build",
+		"test": "bun run test:inherited && bun test ./test/sites.test.js ./test/catalogue.test.js ./test/gdn-transport.test.js ./test/product-destination.test.js ./test/post-rejection.test.js ./test/continuation-integration.test.js ./test/continuation-navigation.test.js",
+		"test:inherited": "bun test --preload ./test/inherited-site.js ./test/adspect.test.js ./test/visits.test.js ./test/navigation.test.js ./test/shared-content.test.js ./test/worker-content.test.js",
+		"test:runtime": "bun test/sites-workerd-check.mjs",
+		"test:browser": "bun run test:runtime && bun test/sites-browser-check.mjs",
+		"test:modal": "bun test/continuation-modal-browser-check.mjs",
+		"images:sync": "bun scripts/sync-images.ts",
+		"setup": "bun experiments/setup.ts site.json",
+		"report": "bun experiments/report.ts"
+	},
+	"imports": {
+		"#site": "./site.json"
+	},
+	"dependencies": {
+		"itty-router": "^2.6.6",
+		"moment-timezone": "^0.5.48"
+	},
+	"devDependencies": {
+		"playwright": "1.64.1",
+		"sharp": "0.35.5",
+		"wrangler": "4.151.0"
 	}
 }

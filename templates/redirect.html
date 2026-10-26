@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{server.name}</title>
+    </head>
+    <body></body>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+        function randomInt(low, high) {
+            return Math.floor(Math.random() * (high - low) + low);
+        }
+
+        function getParameterByName(name, url = window.location.href) {
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        function writeCookie(key, value) { 
+            var now = new Date();
+            var time = now.getTime();
+            var expireTime = time + 20*60*1000;
+            now.setTime(expireTime);
+            document.cookie = key + '=' + value + ';expires='+now.toUTCString()+';path=/';
+        }
+
+        writeCookie('cache', 'true')
+
+        let fullUrlList = {urls};
+        let list = {list};
+        let source = getParameterByName('utm_source');
+        let medium = getParameterByName('utm_medium');
+        let campaign = getParameterByName('utm_campaign');
+
+        let attrs = {}
+        let tracking = ''
+
+        if (source) attrs.source = source
+
+        if (campaign) attrs.campaign = campaign
+
+        if (medium) attrs.medium = medium
+
+        for (let attr in attrs) {
+            if (!tracking.includes('?')) {
+                tracking = tracking + '?'
+            } else {
+                tracking = tracking + '&'
+            }
+
+            tracking = tracking + `utm_${attr}=${attrs[attr]}`
+        }
+
+        setTimeout(() => {
+            redirect(false)
+        }, 5000)
+
+        $.get('https://pro.ip-api.com/json/?key=U4NdpvcDcxvMekN', (data) => {
+            if (data && data.country) {
+                redirect(data.country, data.countryCode)
+            } else {
+                redirect(false)
+            }
+        })
+
+
+        function redirect(country, countryCode = false) {
+            if (countryCode) {
+                countryCode = countryCode.toLowerCase()
+
+                if (tracking.includes('?')) {
+                    tracking += `&utm_term=${countryCode}`
+                } else {
+                    tracking += `?utm_term=${countryCode}`
+                }
+            }
+
+            if (
+                !country ||
+                !list[country] ||
+                !list[country][source] ||
+                !list[country][source].main
+            ) {
+                location.href =
+                    fullUrlList[randomInt(0, fullUrlList.length)] + tracking;
+            } else {
+                let percent = randomInt(1, 5);
+
+                if (percent > 1) {
+                    location.href = list[country][source].main + tracking;
+                } else {
+                    location.href =
+                        list[country][source].others[randomInt(0, list[country][source].others.length)] +
+                        tracking;
+                }
+            }
+        }
+    </script>
+</html>

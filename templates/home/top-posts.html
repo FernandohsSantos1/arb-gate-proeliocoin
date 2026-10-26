@@ -1,0 +1,28 @@
+<div class="col-12">
+    <div class="row block featured-posts-wrap clearfix">
+        <div class="col-xl-8 col-lg-8 f-left">
+            <article class="post post-large post-compact has-img">
+                <div class="post-img-wrap loading-bg">
+                    <img
+                        loading="lazy"
+                        class="post-img"
+                        src="{{image}}"
+                        alt="{{title}}"
+                    >
+                </div>
+                <a href="{{post_url}}" aria-label="{{title}}" class="overlay-link"></a>
+                <div class="post-content">
+                    <div class="tag-wrap">
+                        <a href="{{category_url}}" class="tag tag-pill tc-nature">{{category_name}}</a>
+                    </div>
+                    <h2 class="post-title h4">{{title}}</h2>
+                    <div class="post-meta">
+                        <time class="pub-date">{{post_date}}</time>
+                        <span class="read-time">{{post_readtime}}</span>
+                    </div>
+                </div>
+            </article>
+        </div>
+        {{items}}
+    </div>
+</div>

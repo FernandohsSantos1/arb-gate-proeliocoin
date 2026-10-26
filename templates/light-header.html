@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" data-theme="light">
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin=>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=>
+        <link rel="preconnect" href="https://cdn.proeliocoin.com" crossorigin>
+        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0 shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>{{seo_title}}</title>
+        <link
+            rel="stylesheet"
+            href="/public/css/index.css"
+            media="print"
+            onload="this.onload=null;this.removeAttribute('media');"
+            fetchpriority="high"
+        >
+        <!-- no-JS fallback -->
+        <noscript>
+            <link rel="stylesheet" href="/public/css/index.css">
+        </noscript>
+        <!-- async CSS (optionally increase loading priority with fetchpriority="high") -->
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:wght@400;700&display=swap"
+            media="print"
+            onload="this.onload=null;this.removeAttribute('media');"
+            fetchpriority="high"
+        >
+        <!-- no-JS fallback -->
+        <noscript>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:wght@400;700&display=swap">
+        </noscript>
+        <link rel="canonical" href="{{seo_url}}">
+        <meta name="description" content="{{seo_description}}">
+        <meta property="og:title" content="{{seo_title}}">
+        <meta property="og:description" content="{{seo_description}}">
+        <meta property="og:image" content="{{seo_image}}">
+        <meta property="og:url" content="{{seo_url}}">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="{{lang}}">
+        <!-- custom headers -->
+    </head>
+    <body class="post-template tag-nature">
+        <div class="site-wrap">
+            <header class="site-header">
+                <!-- header middle -->
+                <div class="header-middle">
+                    <div class="container">
+                        <div class="">
+                            <div class="">
+                                <a
+                                    class="menu-icon nav-icon custom-header"
+                                    id="js-menu-toggle"
+                                    href="javascript:;"
+                                    aria-haspopup="true"
+                                    aria-expanded="false"
+                                >
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                </a>
+                                <div class="logo">
+                                    <a href="{{home_url}}" class="logo-image theme-light-logo">
+                                       <img src="/public/img/logo.svg" style="height: 60px;">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="nav-bar flex">
+                                    <nav class="nav-left">
+                                        <ul class="nav-list nav-list-primary text-upper no-style-list">
+                                            {{menu}}
+                                            <li class="more-link">
+                                                <a href="javascript:">
+                                                    More
+                                                    <svg
+                                                        width="24"
+                                                        height="24"
+                                                        viewBox="0 0 24 24"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path d="M12 18c-.39 0-.78-.132-1.097-.398L.617 9.03a1.713 1.713 0 112.194-2.633l9.208 7.673 9.192-7.397a1.715 1.715 0 012.15 2.671l-10.286 8.277A1.714 1.714 0 0112 18"/>
+                                                    </svg>
+                                                </a>
+                                                <ul class="dropdown"></ul>
+                                            </li>
+                                        </ul>
+                                        <a
+                                            class="menu-icon nav-icon"
+                                            id="js-menu-toggle"
+                                            href="javascript:;"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"
+                                        >
+                                            <span class="line"></span>
+                                            <span class="line"></span>
+                                            <span class="line"></span>
+                                        </a>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile-nav-wrap" id="mobile-nav">
+                    <ul class="no-style-list mobile-nav">
+                        {{menu}}
+                    </ul>
+                </div>
+                <div class="backdrop" id="backdrop"></div>
+            </header>

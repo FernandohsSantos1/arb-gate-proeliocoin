@@ -1,9 +1,13 @@
-name = "arb-test-b"
+name = "arb-gate-proeliocoin"
 account_id = "568fcb6346e4fc198fd460104e3bd7ef"
 main = "index.js"
 compatibility_date = "2025-01-27"
 workers_dev = false
 preview_urls = false
+routes = [
+	{ pattern = "proeliocoin.com", custom_domain = true },
+	{ pattern = "www.proeliocoin.com", custom_domain = true }
+]
 
 [alias]
 "#site" = "./site.json"
@@ -13,11 +17,8 @@ ADSPECT_ROUTING_ENABLED = "false"
 EARLY_LOADER_ENABLED = "false"
 
 [assets]
-directory = "../arb-test-base/public"
+directory = "./public"
 binding = "ASSETS"
-
-[[kv_namespaces]]
-binding = "ARB_HOME_PAGES"
 
 [observability.logs]
 enabled = true

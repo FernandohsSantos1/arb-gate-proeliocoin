@@ -1,0 +1,49 @@
+<style>
+    @media (max-width: 1024px) {
+        header.site-header {
+            display: none;
+        }
+
+        .container {
+            margin-top: 10px;
+        }
+
+        footer.site-footer {
+            display: none;
+        }
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <main class="main-content-area">
+                <article class="post post-single post-full-width">
+                    <div class="tag-wrap text-center">
+                        <a href="{{category_url}}" class="tag tag-pill tc-nature">{{category_name}}</a>
+                    </div>
+                    <header class="post-header">
+                        <h1 class="post-title text-center">
+                            {{title}}
+                        </h1>
+                    </header>
+                    <p>{ad_top}</p>
+                    <div class="post-content">
+                        <img
+                            class="post-img"
+                            src="{{image}}"
+                            alt="{{title}}"
+                            fetchpriority="high"
+                        >
+                        {{benefitsItem}}
+                        <p>
+                            {{top_text}}
+                        </p>
+                        <p>{cta}</p>
+                        {{prosAndCons}}
+                        <p>{cta}</p>
+                    </div>
+                </article>
+            </main>
+        </div>
+    </div>
+</div>

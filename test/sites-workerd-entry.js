@@ -1,6 +1,6 @@
 import worker from '@site-worker';
 import site from '#site';
-import fixture from './fixtures/content/metaoffers-pilot/genteymas.net/berkeley-digital-mkt-certificate.json';
+import fixture from './fixtures/content/metaoffers-pilot/proeliocoin.com/berkeley-digital-marketing-certificate-program.json';
 
 let rpcCount = 0, poolCount = 0, destinationCount = 0;
 const check = (value, message) => { if (!value) throw new Error(message); };
@@ -38,7 +38,7 @@ function editorialResponse(url) {
 		data: { domain: 'partner.example', offers: [{ productId: fixture.data.product_id, offerId: fixture.data.offer_id, articlesFound: [slug] }] } });
 	if (url.pathname === `/api/articles/partner.example/${slug}`) return Response.json({ success: true,
 		data: { ...fixture.data, domain_name: 'partner.example' } });
-	check(url.pathname === `/api/articles/genteymas.net/${slug}`, 'Origem editorial inesperada');
+	check(url.pathname === `/api/articles/${site.domain}/${slug}`, 'Origem editorial inesperada');
 	return Response.json(fixture);
 }
 

@@ -15,6 +15,7 @@ function renderBlock(template, tag, values) {
 export function renderSiteHeader() {
 	const texts = constants.HEADER.pt;
 	return renderBlock(headerTemplate, 'header', {
+		home_url: `https://${constants.DOMAIN}/`,
 		logo_alt: texts.LOGO_ALT,
 		header_menu_label: texts.MENU_LABEL,
 		header_menu_open_label: texts.MENU_OPEN_LABEL,
@@ -28,8 +29,12 @@ export function renderSiteHeader() {
 export function renderSiteFooter() {
 	return renderBlock(footerTemplate, 'footer', {
 		year: new Date().getFullYear(),
+		sitedomain: constants.DOMAIN,
 		sitename: constants.SITE_NAME,
 		site_description: constants.SITE_DESCRIPTION.pt,
+		allrights: constants.ALL_RIGHTS.pt,
+		facebook: constants.SOCIAL_MEDIA.facebook,
+		instagram: constants.SOCIAL_MEDIA.instagram,
 		footer_left_title: constants.FOOTER_LEFT_TITLE.pt,
 		footer_left_menu: constants.FOOTER_LEFT_MENU.pt,
 		footer_right_title: constants.FOOTER_RIGHT_TITLE.pt,

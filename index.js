@@ -302,6 +302,7 @@ export default {
 			if (url.hostname.startsWith('www.')) {
 				url.hostname = url.hostname.slice(4);
 				redirectWith301 = true;
+				needRedirect = true;
 			}
 
 			if (url.hostname !== constants.DOMAIN) {

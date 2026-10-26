@@ -20,6 +20,10 @@ EARLY_LOADER_ENABLED = "false"
 directory = "./public"
 binding = "ASSETS"
 
+[[kv_namespaces]]
+binding = "ARB_HOME_PAGES"
+id = "5e308ed820e44f4e88669f135afffe4a"
+
 [observability.logs]
 enabled = true
 invocation_logs = false

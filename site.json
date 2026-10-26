@@ -8,5 +8,34 @@
 	"observe_only": false,
 	"experiment": "fingerprint-v1",
 	"revision": 1,
-	"fingerprint": true
+	"fingerprint": true,
+	"continuation": {
+		"pt": {
+			"title": "Continuar para o site parceiro",
+			"description": "Você será direcionado para nossa página parceira para acessar o curso completo. A oferta e o conteúdo permanecem os mesmos.",
+			"open": "Continuar para o curso →",
+			"continue": "Ir para o site parceiro",
+			"close": "Fechar",
+			"loading": "Carregando...",
+			"error": "Tente novamente mais tarde."
+		},
+		"en": {
+			"title": "Continue to partner site",
+			"description": "You will be directed to our partner page to access the full course. The offer and content remain the same.",
+			"open": "Continue to course →",
+			"continue": "Go to partner site",
+			"close": "Close",
+			"loading": "Loading...",
+			"error": "Please try again later."
+		},
+		"es": {
+			"title": "Continuar al sitio socio",
+			"description": "Serás dirigido a nuestra página socio para acceder al curso completo. La oferta y el contenido permanecen los mismos.",
+			"open": "Continuar al curso →",
+			"continue": "Ir al sitio socio",
+			"close": "Cerrar",
+			"loading": "Cargando...",
+			"error": "Por favor, inténtalo más tarde."
+		}
+	}
 }

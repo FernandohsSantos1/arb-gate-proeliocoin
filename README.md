@@ -6,7 +6,7 @@ Domínio definido pelo usuário: `proeliocoin.com`. `arb-gate-proeliocoin` ident
 
 O código, os assets, as dependências e os testes ficam nesta pasta. O B não importa código da base, do CheersToSochi ou do Clickverso. A identidade fica em [site.json](site.json); ainda usa os valores visuais provisórios herdados e precisa da decisão do usuário.
 
-O catálogo contém os mesmos 12 registros selecionados, com domínio e ID editorial exatos. O resolver próprio valida os domínios participantes, consulta o inventário e preserva o produto. O transporte dos seis campos GDN foi testado no adaptador e na navegação. O clique da modal consulta `/go/`; abrir, esperar, fechar e concluir o POST de fingerprint mantêm a página local. Fechar cancela a operação pendente e impede navegação tardia. Sem configuração explícita de textos, `/go/` retorna 503 e não consulta o pool. As novas capas ainda não constam no manifest B; os testes reais expõem falhas de renderização e não devem ser substituídos pelos testes com imagens simuladas.
+O catálogo usa 12 artigos publicados do próprio `proeliocoin.com` no Meta Offers, cadastro de domínio `336`, com quatro produtos em cada idioma (`pt`, `en` e `es`). Cada entrada valida domínio, ID, produto, oferta, idioma e slug da origem. As URLs anteriores continuam como aliases do mesmo curso; a canônica usa o slug do registro próprio. As 12 capas também vêm desse cadastro e têm arquivos locais no manifest. A origem editorial local é independente do parceiro de saída: o resolver consulta o inventário do pool e preserva o produto. O transporte dos seis campos GDN foi testado no adaptador e na navegação. O clique da modal consulta `/go/`. Sem configuração explícita de textos, `/go/` retorna 503 e não consulta o pool.
 
 ```bash
 bun install --frozen-lockfile
@@ -25,7 +25,7 @@ O ambiente local usa a porta **8792**. `build` apenas compila. O ID do stream ex
 
 `test:inherited` executa regressões de conteúdo, análise, fingerprint e POST com site e catálogo de fixture isolados. As expectativas do loader, da política antiga e da saída pelo High Offers foram retiradas; os caminhos antigos não fazem parte do runtime B. Esses testes não comprovam o perfil real do B.
 
-A rodada atual passou 318 testes herdados e 196 próprios; cinco testes reais de renderização falharam pela ausência das capas dos 12 registros. Os 42 casos novos de integração e controlador usam UI e imagens explicitamente simuladas. O bundle Wrangler real passou. O Chromium local falha ao iniciar. O teste isolado da modal passou no navegador conectado, sem rede externa. Esses resultados não substituem a configuração e a validação visual reais.
+Os testes de catálogo cobrem os 12 registros próprios, seus aliases e os templates reais, incluindo GET e HEAD. Os testes de conteúdo, transporte GDN, resolução de produto, rejeição de POST e controlador de navegação passam. A suíte própria completa ainda tem 11 falhas nas expectativas do gate, da modal e da home, anteriores à troca de origem. O bundle Wrangler real passa. Esses resultados não comprovam o funcionamento completo do gate.
 
 `test:runtime` compila o perfil real sem publicá-lo e depois executa o workerd com configuração de continuação e imagens simuladas. Esse segundo perfil passou por GET, dois POSTs de fingerprint, negação, HEAD sem análise e resolução após clique. A saída identifica a simulação e não valida as capas ou a configuração real. As fixtures de navegador preservam esse marcador. O cancelamento no navegador real ainda precisa ser conferido.
 

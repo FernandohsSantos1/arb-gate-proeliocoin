@@ -5,7 +5,7 @@ import pool from './fixtures/offer-pool.json';
 
 const entry = catalog.articles.find(article => article.product_id === '13');
 const query = '?utm_source=google&cl=21&utm_campaign=ygd_123456789_21&platform=google&pixel=AW-test%2Flabel&gclid=click';
-const request = new Request('https://proeliocoin.com/go/metaoffers/38698/pt/' + query);
+const request = new Request(`https://proeliocoin.com/go/metaoffers/${entry.source_id}/${entry.lang}/` + query);
 request.cf = { country: 'BR' };
 const destination = pool.urls[0], record = pool.records[destination];
 let log, error;
@@ -125,17 +125,19 @@ test('falha na consulta do botão retorna JSON sem URL alternativa', async () =>
 
 for (const article of catalog.articles) test(`inventário encontra produto ${article.product_id}/${article.lang} fora da URL escolhida pela categoria`, async () => {
 	const fixture = await Bun.file(new URL(`./fixtures/content/metaoffers-pilot/${article.source_domain}/${article.slug}.json`, import.meta.url)).json();
-	const calls = [], expected = `https://${article.source_domain}/v/${article.slug}/`;
+	const domain = 'partner.example';
+	fixture.data.domain_name = domain;
+	const calls = [], expected = `https://${domain}/v/${article.slug}/`;
 	const response = await redirectSameProduct(request, article, async (url, options) => {
 		const target = new URL(url);
 		calls.push(target);
 		expect(options.redirect).toBe('manual');
 		expect(options.signal).toBeInstanceOf(AbortSignal);
 		expect(options.headers).toBeUndefined();
-		if (target.pathname.includes('/high-offer/')) return Response.json({ domains: [article.source_domain], urls: ["https://outside-pool.example/v/category-choice/"] });
+		if (target.pathname.includes('/high-offer/')) return Response.json({ domains: [domain], urls: ["https://outside-pool.example/v/category-choice/"] });
 		if (target.pathname.endsWith('/generation-options')) {
-			expect(target.pathname).toBe(`/api/domains/${article.source_domain}/generation-options`);
-			return Response.json({ success: true, data: { domain: article.source_domain, offers: [
+			expect(target.pathname).toBe(`/api/domains/${domain}/generation-options`);
+			return Response.json({ success: true, data: { domain, offers: [
 				{ productId: '999', offerId: article.offer_id, articlesFound: ['unrelated-product'] },
 				{ productId: article.product_id, offerId: article.offer_id, articlesFound: [article.slug] },
 			] } });
@@ -151,7 +153,7 @@ for (const article of catalog.articles) test(`inventário encontra produto ${art
 	expect(calls.some(url => url.pathname.includes('unrelated-product'))).toBe(false);
 	expect(calls.every(url => !url.searchParams.has('gclid') && !url.searchParams.has('pixel'))).toBe(true);
 	expect(calls.filter(url => url.hostname !== 'metaoffers.highstakes.tech' && url.hostname !== 'aifunnel-server-02.highstakes.tech')
-		.every(url => url.hostname === article.source_domain)).toBe(true);
+		.every(url => url.hostname === domain)).toBe(true);
 });
 
 test.each([

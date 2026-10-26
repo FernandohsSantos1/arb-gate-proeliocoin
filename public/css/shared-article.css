@@ -47,6 +47,10 @@
 	object-fit: contain;
 }
 
+.shared-content {
+	color: #242424;
+}
+
 .shared-content p,
 .shared-content ul,
 .shared-content ol,

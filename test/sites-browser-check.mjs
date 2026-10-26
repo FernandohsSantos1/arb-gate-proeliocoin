@@ -25,7 +25,7 @@ try {
 						check((await request.allHeaders()).cookie?.includes(fixture.cookie), 'Cookie do desafio não foi enviado');
 						return route.fulfill({ status: 200, contentType: 'text/html', body: fixture.final });
 					}
-					return route.fulfill({ status: 200, headers: { 'Content-Type': 'text/html', ...(fixture.cookie ? { 'Set-Cookie': fixture.cookie + '; Path=/r/berkeley-digital-mkt-certificate/; Secure; HttpOnly; SameSite=Lax' } : {}) }, body: fixture.html });
+					return route.fulfill({ status: 200, headers: { 'Content-Type': 'text/html', ...(fixture.cookie ? { 'Set-Cookie': fixture.cookie + `; Path=${new URL(fixture.url).pathname}; Secure; HttpOnly; SameSite=Lax` } : {}) }, body: fixture.html });
 				}
 				if (url.pathname.startsWith('/public/')) {
 					const file = Bun.file(new URL('../public/' + url.pathname.slice(8), import.meta.url));

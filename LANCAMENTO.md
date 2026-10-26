@@ -20,7 +20,7 @@ O [playbook Search/GDN](https://docs.adspect.ai/en/latest/use-cases.html#cloakin
 - [x] Confirmado o gatilho desejado de navegação: clique no botão da modal.
 - [x] Confirmada uma modal própria de continuação, sem apresentação de rewarded.
 - [x] Confirmado o tratamento da análise: negado mantém a safepage local; liberado segue para a modal própria e aguarda clique.
-- [x] Reutilizar os [12 artigos e slugs selecionados](../arb-gate-cheerstosochi/LANCAMENTO.md#slugs-selecionadas-para-o-próximo-teste), já publicados em domínios participantes do pool: quatro cursos distintos em cada idioma (`pt`, `en` e `es`).
+- [x] Usar os artigos já publicados do próprio `proeliocoin.com` no Meta Offers, cadastro `336`, para os mesmos 12 produtos: quatro cursos distintos em cada idioma (`pt`, `en` e `es`). As URLs anteriores permanecem como aliases. Os domínios do pool são consultados apenas para o destino de saída.
 - [x] Domínio do B definido: `proeliocoin.com`, registrado em `site.json`.
 - [ ] Definir nome visual, identidade e template do B.
 
@@ -67,7 +67,7 @@ Conteúdo, produto e possibilidade de continuação devem permanecer consistente
 ## 2. Definir produto e destino
 
 - [x] B09. Preparar um catálogo próprio ou outra organização que não altere o A, a base ou o Clickverso.
-- [x] B10. Referenciar no B os 12 artigos publicados, com seus domínios, IDs e idiomas. Não criar ou traduzir artigos para o piloto.
+- [x] B10. Referenciar os 12 artigos publicados do próprio Proeliocoin, com seus IDs, slugs e idiomas. Não criar ou traduzir artigos para o piloto.
 - [x] B11. Conferir o contrato de parâmetros recebido para consultar os domínios participantes. País e cluster são valores da campanha; não desenvolver sua escolha no projeto.
 - [ ] B12. Revalidar os artigos selecionados e os domínios participantes no contexto recebido para o teste. Se faltar um caso, escolher antes do teste outro curso já publicado nesses domínios.
 - [x] B13. Especificar a consulta aos domínios participantes e ao inventário do produto somente após o clique; não limitar a seleção às URLs escolhidas pelo High Offers.

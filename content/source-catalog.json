@@ -1,308 +1,293 @@
 {
-  "generated_at": "2026-10-22T14:31:23.696Z",
-  "source_window": {
-    "site_id": "guide-flow.org",
-    "requested_date_range": [
-      "2026-10-12T15:22:20.554Z",
-      "2026-10-15T15:22:20.554Z"
-    ],
-    "effective_date_range": [
-      "2026-10-12T12:22:20-03:00",
-      "2026-10-15T12:22:20-03:00"
-    ],
-    "presentation_timezone": "America/Sao_Paulo",
-    "window_hours": 72,
-    "manifest_sha256": "66d1d9c1a5426e4c950e9691ee026bbb5dc6efd47108fb23c31a0e4a0b67e86f",
-    "verified_source_files": 192
-  },
+  "generated_at": "2026-10-26T14:53:00.136Z",
   "articles": [
     {
       "source": "metaoffers",
-      "source_domain": "libre-mesh.org",
-      "source_id": "751",
-      "slug": "curso-de-marketing-digital-santander",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51301",
+      "slug": "curso-marketing-digital-santander",
       "lang": "pt",
-      "title": "Curso de Marketing Digital Santander Open Academy: O Guia Completo para Iniciantes e Profissionais",
-      "image": "https://meta-offers-images.highstakes.tech/libre-mesh.org/curso-de-marketing-digital-santander-1776522542414.png",
+      "title": "Curso Marketing Digital da Santander Open Academy: O Guia Completo para Iniciantes e Profissionais",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-marketing-digital-santander.png",
       "product_id": "16",
       "offer_id": "1",
       "offer": "digital-marketing",
-      "canonical_path": "/e/curso-de-marketing-digital-santander/",
+      "canonical_path": "/e/curso-marketing-digital-santander/",
       "source_paths": [
+        "/e/curso-marketing-digital-santander/",
+        "/r/curso-marketing-digital-santander/",
         "/e/curso-de-marketing-digital-santander/",
-        "/r/curso-de-marketing-digital-santander/"
+        "/o/curso-de-marketing-digital-santander/",
+        "/i/curso-de-marketing-digital-santander/",
+        "/v/curso-de-marketing-digital-santander/",
+        "/r/curso-de-marketing-digital-santander/",
+        "/ra/curso-de-marketing-digital-santander/",
+        "/rb/curso-de-marketing-digital-santander/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "newssprout.net",
-      "source_id": "38910",
-      "slug": "curso-de-marketing-digital-ginead",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51305",
+      "slug": "curso-marketing-digital-ginead",
       "lang": "pt",
-      "title": "Curso de Marketing Digital GINEAD: Fundamentos Essenciais — Guia Completo",
-      "image": "https://meta-offers-images.highstakes.tech/newssprout.net/curso-de-marketing-digital-ginead.png",
+      "title": "Curso Fundamentos Marketing Digital GINEAD: Guia Completo para Iniciantes",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-marketing-digital-ginead.png",
       "product_id": "15",
       "offer_id": "1",
       "offer": "digital-marketing",
-      "canonical_path": "/e/curso-de-marketing-digital-ginead/",
+      "canonical_path": "/e/curso-marketing-digital-ginead/",
       "source_paths": [
+        "/e/curso-marketing-digital-ginead/",
+        "/r/curso-marketing-digital-ginead/",
         "/e/curso-de-marketing-digital-ginead/",
-        "/r/curso-de-marketing-digital-ginead/"
+        "/o/curso-de-marketing-digital-ginead/",
+        "/i/curso-de-marketing-digital-ginead/",
+        "/v/curso-de-marketing-digital-ginead/",
+        "/r/curso-de-marketing-digital-ginead/",
+        "/ra/curso-de-marketing-digital-ginead/",
+        "/rb/curso-de-marketing-digital-ginead/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "anamma.com.br",
-      "source_id": "274",
-      "slug": "curso-de-marketing-digital-alura",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51300",
+      "slug": "curso-marketing-digital-alura",
       "lang": "pt",
-      "title": "Curso Marketing Digital da Alura: O Guia Completo para sua Carreira em Marketing Digital",
-      "image": "https://meta-offers-images.highstakes.tech/anamma.com.br/curso-de-marketing-digital-alura.png",
+      "title": "Curso de Marketing Digital Alura: Guia Completo para Começar",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-marketing-digital-alura.png",
       "product_id": "7",
       "offer_id": "1",
       "offer": "digital-marketing",
-      "canonical_path": "/e/curso-de-marketing-digital-alura/",
+      "canonical_path": "/e/curso-marketing-digital-alura/",
       "source_paths": [
+        "/e/curso-marketing-digital-alura/",
+        "/r/curso-marketing-digital-alura/",
         "/e/curso-de-marketing-digital-alura/",
-        "/r/curso-de-marketing-digital-alura/"
+        "/o/curso-de-marketing-digital-alura/",
+        "/i/curso-de-marketing-digital-alura/",
+        "/v/curso-de-marketing-digital-alura/",
+        "/r/curso-de-marketing-digital-alura/",
+        "/ra/curso-de-marketing-digital-alura/",
+        "/rb/curso-de-marketing-digital-alura/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "agiliza.me",
-      "source_id": "38698",
-      "slug": "curso-de-mkt-digital-orango-senac",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51303",
+      "slug": "curso-de-marketing-digital-orango",
       "lang": "pt",
-      "title": "Curso de Marketing Digital Orango Senac: O Guia Completo para Começar e Crescer nas Redes",
-      "image": "https://meta-offers-images.highstakes.tech/agiliza.me/curso-de-mkt-digital-orango-senac.png",
+      "title": "Curso de Marketing Digital e Influência Orango: Guia Completo para Construir Sua Marca Online",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-de-marketing-digital-orango.png",
       "product_id": "13",
       "offer_id": "1",
       "offer": "digital-marketing",
-      "canonical_path": "/e/curso-de-mkt-digital-orango-senac/",
+      "canonical_path": "/e/curso-de-marketing-digital-orango/",
       "source_paths": [
+        "/e/curso-de-marketing-digital-orango/",
+        "/r/curso-de-marketing-digital-orango/",
         "/e/curso-de-mkt-digital-orango-senac/",
-        "/r/curso-de-mkt-digital-orango-senac/"
+        "/o/curso-de-mkt-digital-orango-senac/",
+        "/i/curso-de-mkt-digital-orango-senac/",
+        "/v/curso-de-mkt-digital-orango-senac/",
+        "/r/curso-de-mkt-digital-orango-senac/",
+        "/ra/curso-de-mkt-digital-orango-senac/",
+        "/rb/curso-de-mkt-digital-orango-senac/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "genteymas.net",
-      "source_id": "39877",
-      "slug": "berkeley-digital-mkt-certificate",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51298",
+      "slug": "berkeley-digital-marketing-certificate-program",
       "lang": "en",
-      "title": "Berkeley Digital Marketing Course: Everything You Need to Know",
-      "image": "https://meta-offers-images.highstakes.tech/genteymas.net/berkeley-digital-mkt-certificate.png",
+      "title": "Berkeley Online Marketing Certificate Program: The Full Guide",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/berkeley-digital-marketing-certificate-program-1775314680848.png",
       "product_id": "29",
       "offer_id": "6",
       "offer": "digital-marketing",
-      "canonical_path": "/e/berkeley-digital-mkt-certificate/",
+      "canonical_path": "/e/berkeley-digital-marketing-certificate-program/",
       "source_paths": [
+        "/e/berkeley-digital-marketing-certificate-program/",
+        "/r/berkeley-digital-marketing-certificate-program/",
         "/e/berkeley-digital-mkt-certificate/",
-        "/r/berkeley-digital-mkt-certificate/"
+        "/o/berkeley-digital-mkt-certificate/",
+        "/i/berkeley-digital-mkt-certificate/",
+        "/v/berkeley-digital-mkt-certificate/",
+        "/r/berkeley-digital-mkt-certificate/",
+        "/ra/berkeley-digital-mkt-certificate/",
+        "/rb/berkeley-digital-mkt-certificate/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "newssprout.net",
-      "source_id": "38897",
-      "slug": "cim-certified-marketing-program",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51308",
+      "slug": "cim-marketing-certification-course",
       "lang": "en",
-      "title": "CIM Online Marketing Course: The Full Guide to CIM Digital Marketing Qualifications",
-      "image": "https://meta-offers-images.highstakes.tech/newssprout.net/cim-certified-marketing-program.png",
+      "title": "CIM Marketing Certification Course: The Complete Guide to Skills, Structure and Success",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/cim-marketing-certification-course-1775143434783.png",
       "product_id": "30",
       "offer_id": "6",
       "offer": "digital-marketing",
-      "canonical_path": "/e/cim-certified-marketing-program/",
+      "canonical_path": "/e/cim-marketing-certification-course/",
       "source_paths": [
+        "/e/cim-marketing-certification-course/",
+        "/r/cim-marketing-certification-course/",
         "/e/cim-certified-marketing-program/",
-        "/r/cim-certified-marketing-program/"
+        "/o/cim-certified-marketing-program/",
+        "/i/cim-certified-marketing-program/",
+        "/v/cim-certified-marketing-program/",
+        "/r/cim-certified-marketing-program/",
+        "/ra/cim-certified-marketing-program/",
+        "/rb/cim-certified-marketing-program/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "s2earch.io",
-      "source_id": "3447",
-      "slug": "digital-marketing-course-spd",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51314",
+      "slug": "spd-digital-marketing-certificate",
       "lang": "en",
-      "title": "SPD Marketing Skills Program: The Complete Three-Day Digital Marketing Guide",
-      "image": "https://meta-offers-images.highstakes.tech/s2earch.io/digital-marketing-course-spd.png",
+      "title": "Digital Marketing Skills Course SPD: The Full Guide",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/spd-digital-marketing-certificate.png",
       "product_id": "36",
       "offer_id": "6",
       "offer": "digital-marketing",
-      "canonical_path": "/e/digital-marketing-course-spd/",
+      "canonical_path": "/e/spd-digital-marketing-certificate/",
       "source_paths": [
+        "/e/spd-digital-marketing-certificate/",
+        "/r/spd-digital-marketing-certificate/",
         "/e/digital-marketing-course-spd/",
-        "/r/digital-marketing-course-spd/"
+        "/o/digital-marketing-course-spd/",
+        "/i/digital-marketing-course-spd/",
+        "/v/digital-marketing-course-spd/",
+        "/r/digital-marketing-course-spd/",
+        "/ra/digital-marketing-course-spd/",
+        "/rb/digital-marketing-course-spd/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "s2earch.io",
-      "source_id": "2372",
-      "slug": "digital-marketing-course-by-dmi",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51313",
+      "slug": "professional-diploma-in-digital-marketing-dmi",
       "lang": "en",
-      "title": "Professional Diploma in Digital Marketing (DMI): The Full Guide",
-      "image": "https://meta-offers-images.highstakes.tech/s2earch.io/digital-marketing-course-by-dmi-1770906088631.png",
+      "title": "Digital Marketing Course By DMI: The Complete Guide",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/professional-diploma-in-digital-marketing-dmi-1775066448766.png",
       "product_id": "37",
       "offer_id": "6",
       "offer": "digital-marketing",
-      "canonical_path": "/e/digital-marketing-course-by-dmi/",
+      "canonical_path": "/e/professional-diploma-in-digital-marketing-dmi/",
       "source_paths": [
+        "/e/professional-diploma-in-digital-marketing-dmi/",
+        "/r/professional-diploma-in-digital-marketing-dmi/",
         "/e/digital-marketing-course-by-dmi/",
-        "/r/digital-marketing-course-by-dmi/"
+        "/o/digital-marketing-course-by-dmi/",
+        "/i/digital-marketing-course-by-dmi/",
+        "/v/digital-marketing-course-by-dmi/",
+        "/r/digital-marketing-course-by-dmi/",
+        "/ra/digital-marketing-course-by-dmi/",
+        "/rb/digital-marketing-course-by-dmi/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "libre-mesh.org",
-      "source_id": "1778",
-      "slug": "certificacion-en-marketing-digital-esic",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51312",
+      "slug": "curso-de-marketing-digital-esic",
       "lang": "es",
-      "title": "Curso Online de Marketing Digital ESIC: La guía completa para impulsar tu carrera digital",
-      "image": "https://meta-offers-images.highstakes.tech/libre-mesh.org/certificacion-en-marketing-digital-esic-1776522553571.png",
+      "title": "Curso Online de Marketing Digital ESIC: La guía completa para empezar tu carrera digital",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-de-marketing-digital-esic.png",
       "product_id": "33",
       "offer_id": "7",
       "offer": "digital-marketing",
-      "canonical_path": "/e/certificacion-en-marketing-digital-esic/",
+      "canonical_path": "/e/curso-de-marketing-digital-esic/",
       "source_paths": [
+        "/e/curso-de-marketing-digital-esic/",
+        "/r/curso-de-marketing-digital-esic/",
         "/e/certificacion-en-marketing-digital-esic/",
-        "/r/certificacion-en-marketing-digital-esic/"
+        "/o/certificacion-en-marketing-digital-esic/",
+        "/i/certificacion-en-marketing-digital-esic/",
+        "/v/certificacion-en-marketing-digital-esic/",
+        "/r/certificacion-en-marketing-digital-esic/",
+        "/ra/certificacion-en-marketing-digital-esic/",
+        "/rb/certificacion-en-marketing-digital-esic/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "agiliza.me",
-      "source_id": "38681",
-      "slug": "certificado-en-marketing-digital-escuela-da-vinci",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51315",
+      "slug": "curso-de-marketing-online-da-vinci",
       "lang": "es",
-      "title": "Curso de Marketing Digital Escuela Da Vinci: La Guía Completa",
-      "image": "https://meta-offers-images.highstakes.tech/agiliza.me/certificado-en-marketing-digital-escuela-da-vinci.png",
+      "title": "Curso de Marketing Digital Da Vinci: La guía completa para dominar el marketing online",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-de-marketing-online-da-vinci.png",
       "product_id": "31",
       "offer_id": "7",
       "offer": "digital-marketing",
-      "canonical_path": "/e/certificado-en-marketing-digital-escuela-da-vinci/",
+      "canonical_path": "/e/curso-de-marketing-online-da-vinci/",
       "source_paths": [
+        "/e/curso-de-marketing-online-da-vinci/",
+        "/r/curso-de-marketing-online-da-vinci/",
         "/e/certificado-en-marketing-digital-escuela-da-vinci/",
-        "/r/certificado-en-marketing-digital-escuela-da-vinci/"
+        "/o/certificado-en-marketing-digital-escuela-da-vinci/",
+        "/i/certificado-en-marketing-digital-escuela-da-vinci/",
+        "/v/certificado-en-marketing-digital-escuela-da-vinci/",
+        "/r/certificado-en-marketing-digital-escuela-da-vinci/",
+        "/ra/certificado-en-marketing-digital-escuela-da-vinci/",
+        "/rb/certificado-en-marketing-digital-escuela-da-vinci/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "s2earch.io",
-      "source_id": "2862",
-      "slug": "certificacion-en-marketing-digital-deusto",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51320",
+      "slug": "curso-online-de-marketing-digital-deusto",
       "lang": "es",
-      "title": "Certificación en Marketing Digital Deusto Formación: La guía completa para dominar Meta",
-      "image": "https://meta-offers-images.highstakes.tech/s2earch.io/certificacion-en-marketing-digital-deusto.png",
+      "title": "Curso de Marketing Digital Deusto Formación: La guía completa para obtener la certificación Meta",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-online-de-marketing-digital-deusto.png",
       "product_id": "35",
       "offer_id": "7",
       "offer": "digital-marketing",
-      "canonical_path": "/e/certificacion-en-marketing-digital-deusto/",
+      "canonical_path": "/e/curso-online-de-marketing-digital-deusto/",
       "source_paths": [
+        "/e/curso-online-de-marketing-digital-deusto/",
+        "/r/curso-online-de-marketing-digital-deusto/",
         "/e/certificacion-en-marketing-digital-deusto/",
-        "/r/certificacion-en-marketing-digital-deusto/"
+        "/o/certificacion-en-marketing-digital-deusto/",
+        "/i/certificacion-en-marketing-digital-deusto/",
+        "/v/certificacion-en-marketing-digital-deusto/",
+        "/r/certificacion-en-marketing-digital-deusto/",
+        "/ra/certificacion-en-marketing-digital-deusto/",
+        "/rb/certificacion-en-marketing-digital-deusto/"
       ]
     },
     {
       "source": "metaoffers",
-      "source_domain": "anamma.com.br",
-      "source_id": "2456",
-      "slug": "certificacion-en-marketing-digital-akademus",
+      "source_domain": "proeliocoin.com",
+      "source_id": "51307",
+      "slug": "curso-online-de-marketing-digital-akademus",
       "lang": "es",
       "title": "Certificación en Marketing Digital Akademus: La guía completa para dominar el marketing online",
-      "image": "https://meta-offers-images.highstakes.tech/anamma.com.br/certificacion-en-marketing-digital-akademus.png",
+      "image": "https://meta-offers-images.highstakes.tech/proeliocoin.com/curso-online-de-marketing-digital-akademus.png",
       "product_id": "34",
       "offer_id": "7",
       "offer": "digital-marketing",
-      "canonical_path": "/e/certificacion-en-marketing-digital-akademus/",
+      "canonical_path": "/e/curso-online-de-marketing-digital-akademus/",
       "source_paths": [
+        "/e/curso-online-de-marketing-digital-akademus/",
+        "/r/curso-online-de-marketing-digital-akademus/",
         "/e/certificacion-en-marketing-digital-akademus/",
-        "/r/certificacion-en-marketing-digital-akademus/"
+        "/o/certificacion-en-marketing-digital-akademus/",
+        "/i/certificacion-en-marketing-digital-akademus/",
+        "/v/certificacion-en-marketing-digital-akademus/",
+        "/r/certificacion-en-marketing-digital-akademus/",
+        "/ra/certificacion-en-marketing-digital-akademus/",
+        "/rb/certificacion-en-marketing-digital-akademus/"
       ]
     }
-  ],
-  "threads": [
-    {
-      "id": "6aa813bcffab41b51a40ed39",
-      "slug": "autonation-what-should-you-check-before-buying-a-used-car",
-      "lang": "en",
-      "title": "AutoNation: What Should You Check Before Buying a Used Car?",
-      "source_paths": [
-        "/ai/l/autonation-what-should-you-check-before-buying-a-used-car/",
-        "/ai/p/autonation-what-should-you-check-before-buying-a-used-car/"
-      ],
-      "available": false
-    },
-    {
-      "id": "6abe50c99377afdf87e9a4e9",
-      "slug": "facebook-meta-muse-ai-que-hace-realmente",
-      "lang": "es",
-      "title": "Facebook / Meta Muse AI: ¿Qué Hace Realmente?",
-      "source_paths": [
-        "/ai/l/facebook-meta-muse-ai-que-hace-realmente/",
-        "/ai/p/facebook-meta-muse-ai-que-hace-realmente/"
-      ],
-      "available": false
-    },
-    {
-      "id": "69933af4279be6554efc3795",
-      "slug": "credit-card-with-pre-approved-limit-bonus",
-      "lang": "en",
-      "title": "How to Get a Credit Card with a Pre-Approved Limit and Welcome Bonus?",
-      "source_paths": [
-        "/ai/l/credit-card-with-pre-approved-limit-bonus/",
-        "/ai/p/credit-card-with-pre-approved-limit-bonus/"
-      ],
-      "available": false
-    },
-    {
-      "id": "69933972279be6554efc3787",
-      "slug": "how-to-get-free-products-shein-temu",
-      "lang": "en",
-      "title": "How to Receive Free Products from Sites Like Shein and Temu to Test?",
-      "source_paths": [
-        "/ai/l/how-to-get-free-products-shein-temu/"
-      ],
-      "available": false
-    },
-    {
-      "id": "6abd35bdffab41b51a59b7cd",
-      "slug": "facebook-meta-muse-ai-what-does-it-actually-do",
-      "lang": "en",
-      "title": "Facebook / Meta Muse AI: What Does It Actually Do?",
-      "source_paths": [
-        "/ai/l/facebook-meta-muse-ai-what-does-it-actually-do/"
-      ],
-      "available": false
-    }
-  ],
-  "catalog_import": {
-    "imported_at": "2026-10-16T11:35:19.270Z",
-    "catalog_url": "https://guide-flow.org/api/guide-flow/catalog.json",
-    "catalog_sha256": "8379f2e474850c5490be1b5234485cd41aa2be79ff5f2c8f1bd58531d015ede8",
-    "snapshot_directory": "arb-clickverso/test/fixtures/content",
-    "source_sha256": {
-      "bnp-paribas-pret-auto": "dbba1b1aee61b19d1a76192c74ecb789b20f0c191c537b5afaec2697e31e6c7b",
-      "formation-de-data-analyst-wild-code-school": "66770c64fc4fa9fecc40b7eccdc7eb6105e1180780f44642caf13f3378b90c0b",
-      "bnp-paribas-pret-projets": "a68adbb02d480cef256ccf36d0efc7abef9a0d53b18edeb0ea5e35a13d4ab3dd",
-      "recibir-el-beneficios-del-gobierno": "55b23b406e010a39ff62cd0d30ada0349018b09d5abfed5e32ebac80ee0fdd69",
-      "obtenir-des-aides-du-gouvernement": "9b178428d23f2d9d75d3de5ca16a30c792193dca04e4068c5480aa6f2f079cd0",
-      "la-banque-postale-pret-personnel-auto": "02b9f523ef1977f445f2b1533e57f789cd6a1a9c0267632507c5627af5eadbae",
-      "pret-travaux-de-sofinco": "02fc1fe9cfde1794a7b98b49edd6c565dadfab48b14a9d0c2f37c3d6c53e7729",
-      "le-cours-de-marketing-digital-de-coursera": "77e12fd446ca21ef60480868a8d11f0a3b8b7cefef24fa0016778f879b7701fe",
-      "como-ingressar-no-minha-casa-minha-vida": "72dd56b0a8599b5794a6643098358a25d9c1ea2c1d3a6cac7da986464ea246bf",
-      "pret-tresorerie-par-carrefour-banque": "2708edd670776ac0339df6c34b891a5f714b82ac93085e97b35b7ca2c3b2b1a3",
-      "renault-financement-des-vehicules": "2b4a93df7482c79078bcdd819bb5d96cf6d9937b3f38b4b43298cfe2c121ac21",
-      "shein-vous-offre-des-vetements-gratuits": "07e41203e258b84cb7ca4bcbaefbb714e0fadfbbfd4fc0f8b9d5669f7f89fee7",
-      "comprar-eletrodomesticos-no-ponto-frio": "5d9d87420fcf537221aae538a3b64825640325d9b9629358f27d27ddc8c8ad10",
-      "comprar-eletrodomesticos-na-electrolux": "5701cb744e92a9076a0bc2d1ed85a244768623aace0a69b813f9475bd85ec0c9",
-      "comprar-eletrodomesticos-na-magazine-luiza": "70554763c2267e817f14cf82622778a5154b61e886ed1bb8caeede4f3e24d3db",
-      "como-receber-beneficios-governamentais": "570b7eb32f2cf8e545166bd98f9ba94eb05667a3460831cca8fdde97d1c91c27",
-      "emprestimo-bom-pra-credito": "3bcdd6a8e7d82471b3cad456e3f9235875dca66811e9b8c888edf775f7305b40",
-      "emprestimo-consignado-no-picpay": "b51e6d222b73f510b02aef55784f72bee35cce782a6275c9caf73263b8262381",
-      "emprestimo-com-garantia-de-investimento-do-santander": "89ec34fa388da1e123d401fe2fc7b802fea42567c8be8df50ac9e4a9820b54bd",
-      "conseguir-roupa-gratis-na-shein": "55cf49fc379078ac3598b04afbe7c5bf383557d879de5164a1abd0e0966b44a9",
-      "piki-emprestimo-pessoal": "22561b8088b6af528b3e8b0d66ba23ae5529580533a78da53105b3a1ac3e015a"
-    }
-  }
+  ]
 }

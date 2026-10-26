@@ -9,13 +9,15 @@ const passive = await continuationWorker({ ...fixtureSite, observe_only: true })
 const entry = catalog.articles.find(article => article.product_id === '13');
 const fixture = await sourceSnapshot(entry).json(), origin = `https://${fixtureSite.domain}`;
 const landing = `/r/${entry.slug}/`, query = '?utm_source=google&cl=47&gclid=synthetic-click&pixel=AW-123/synthetic-label&placement=publisher.example';
-const endpoint = `/go/metaoffers/${entry.source_id}/${entry.lang}/`, destination = `https://${entry.source_domain}/v/${entry.slug}/`;
+const endpoint = `/go/metaoffers/${entry.source_id}/${entry.lang}/`, partner = 'partner.example';
+const destination = `https://${partner}/v/${entry.slug}/`;
 const headers = { 'CF-Connecting-IP': '192.0.2.27', 'User-Agent': 'B27 fixture', Accept: 'text/html' };
 const fetchOriginal = globalThis.fetch, cachesOriginal = globalThis.caches;
 const calls = [], pending = [], cache = new Map();
 const context = { waitUntil(promise) { pending.push(promise); } };
 const env = { ADSPECT_STREAM_ID: '00000000-0000-4000-8000-000000000027',
-	ADSPECT_ROUTING_ENABLED: 'true', EARLY_LOADER_ENABLED: 'true' };
+	ADSPECT_ROUTING_ENABLED: 'true', EARLY_LOADER_ENABLED: 'true',
+	ASSETS: { async fetch() { return new Response('<!DOCTYPE html><html><head></head><body><article><h1>Artigo da fixture</h1><p>Conteúdo do artigo.</p></article></body></html>', { headers: { 'Content-Type': 'text/html; charset=utf-8' } }); } } };
 let ok, fingerprint, result, log, error;
 
 async function upstream(value, options) {
@@ -26,9 +28,11 @@ async function upstream(value, options) {
 		return Response.json(result || { cid: 'fixture_cid', ok, js: fingerprint && !body.cid, action: 'noop', target: '' });
 	}
 	if (url.href === `https://metaoffers.highstakes.tech/api/articles/${entry.source_domain}/${entry.slug}`) return Response.json(fixture);
-	if (url.pathname === '/api/high-offer/get-data/') return Response.json({ domains: [entry.source_domain] });
-	if (url.pathname === `/api/domains/${entry.source_domain}/generation-options`) return Response.json({ success: true,
-		data: { domain: entry.source_domain, offers: [{ productId: entry.product_id, offerId: entry.offer_id, articlesFound: [entry.slug] }] } });
+	if (url.href === `https://metaoffers.highstakes.tech/api/articles/${partner}/${entry.slug}`) return Response.json({ success: true,
+		data: { ...fixture.data, domain_name: partner } });
+	if (url.pathname === '/api/high-offer/get-data/') return Response.json({ domains: [partner] });
+	if (url.pathname === `/api/domains/${partner}/generation-options`) return Response.json({ success: true,
+		data: { domain: partner, offers: [{ productId: entry.product_id, offerId: entry.offer_id, articlesFound: [entry.slug] }] } });
 	if (url.href === destination) return new Response('<h1>Destino da fixture</h1>', { headers: { 'Content-Type': 'text/html' } });
 	throw new Error('Rede fora da fixture B27: ' + url.href);
 }

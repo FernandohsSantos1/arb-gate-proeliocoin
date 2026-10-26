@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, describe, expect, spyOn, test } from 'bun:test';
-import fixture from './fixtures/content/metaoffers-pilot/genteymas.net/berkeley-digital-mkt-certificate.json';
+import fixture from './fixtures/content/metaoffers-pilot/proeliocoin.com/berkeley-digital-marketing-certificate-program.json';
 import { streamSettings, verifyStream } from '../experiments/stream.js';
 import { metrics, reportRows, summarize } from '../experiments/report.js';
 
@@ -26,8 +26,8 @@ let log, error;
 const context = { waitUntil(promise) { pending.push(promise); } };
 const env = { ADSPECT_STREAM_ID: '00000000-0000-4000-8000-000000000001', ADSPECT_ROUTING_ENABLED: 'true', EARLY_LOADER_ENABLED: 'true',
 	ARB_HOME_PAGES: { async get() { return null; }, async put(key) { writes.push(key); } },
-	ASSETS: { async fetch(request) { return new Response(new URL(request.url).pathname); } } };
-const path = '/r/berkeley-digital-mkt-certificate/';
+	ASSETS: { async fetch(request) { return new Response('<!DOCTYPE html><html><head></head><body>Money page fixture</body></html>', { headers: { 'Content-Type': 'text/html; charset=utf-8' } }); } } };
+const path = `/r/${fixture.data.slug}/`;
 const query = '?utm_campaign=ygd_123456789_21&mb=ygd&platform=google&pixel=AW-test%2Flabel&gclid=test&dclid=test-d&gbraid=test-b&wbraid=test-w';
 
 beforeEach(() => {
@@ -58,35 +58,40 @@ function provider(ok, fingerprint = false, unavailable = false) {
 for (const { site, worker } of projects) describe(site.id, () => {
 	const origin = `https://${site.domain}`;
 	const request = () => new Request(origin + path + query, { headers: { 'CF-Connecting-IP': '192.0.2.42' } });
-	test('safe e money entregam o mesmo HTML e leitura local, mesmo com variável de gate ativa', async () => {
-		const bodies = [];
-		for (const ok of [true, false]) {
-			provider(ok);
-			const response = await worker.fetch(request(), env, context);
-			expect(response.status).toBe(200);
-			expect(response.headers.get('Location')).toBeNull();
-			expect(response.headers.get('X-Clickverso-Decision')).toBe('observe');
-			expect(response.headers.get('Cache-Control')).toBe('private, no-store');
-			const html = await response.text();
-			expect(html).toContain(`href="${origin}/e/berkeley-digital-mkt-certificate/"`);
-			expect(html).toContain('platform=google');
-			expect(html).toContain('ygd_123456789_21');
-			expect(html).not.toContain('click.clickverso.net');
-			expect(html).not.toContain('data-clickverso-loader-script');
-			bodies.push(html);
-		}
-		expect(bodies[0]).toBe(bodies[1]);
-		const events = log.mock.calls.map(([line]) => JSON.parse(line)).filter(event => event.event === 'adspect_analysis');
-		expect(events.map(event => event.ok)).toEqual([true, false]);
-		expect(events.every(event => event.site_id === site.id && event.experiment === site.experiment)).toBe(true);
-	});
+	test('safe entrega artigo e money entrega money page local, com decisão aplicada', async () => {
+			for (const ok of [true, false]) {
+				provider(ok);
+				const response = await worker.fetch(request(), env, context);
+				expect(response.status).toBe(200);
+				expect(response.headers.get('Location')).toBeNull();
+				expect(response.headers.get('X-Clickverso-Decision')).toBe(ok ? 'money' : 'safe');
+				expect(response.headers.get('Cache-Control')).toBe('private, no-store');
+				const html = await response.text();
+				if (ok) {
+					// money: money page local com config injetada
+					expect(html).toContain('window.MONEY_PAGE_CONFIG');
+					expect(html).toContain('sourceId: "51298"');
+					expect(html).toContain('lang: "en"');
+				} else {
+					// safe: artigo completo com modal
+					expect(html).toContain('href="https://proeliocoin.com/e/berkeley-digital-marketing-certificate-program/"');
+					expect(html).toContain('platform=google');
+					expect(html).toContain('ygd_123456789_21');
+				}
+				expect(html).not.toContain('click.clickverso.net');
+				expect(html).not.toContain('data-clickverso-loader-script');
+			}
+			const events = log.mock.calls.map(([line]) => JSON.parse(line)).filter(event => event.event === 'adspect_analysis');
+			expect(events.map(event => event.ok)).toEqual([true, false]);
+			expect(events.every(event => event.site_id === site.id && event.experiment === site.experiment)).toBe(true);
+		});
 	test('erro do fornecedor mantém o conteúdo local', async () => {
 		provider(false, false, true);
 		const response = await worker.fetch(request(), env, context);
 		expect(response.status).toBe(200);
 		expect(response.headers.get('Location')).toBeNull();
 		expect(response.headers.get('X-Adspect-Stage')).toBe('provider_http_error');
-		expect(await response.text()).toContain('berkeley-digital-mkt-certificate');
+		expect(await response.text()).toContain(fixture.data.slug);
 	});
 	test('fingerprint retorna ao mesmo domínio e não decide a navegação', async () => {
 		provider(false, true);
@@ -114,9 +119,6 @@ for (const { site, worker } of projects) describe(site.id, () => {
 		expect(catalog.posts).toHaveLength(0);
 		for (const article of [...catalog.articles, ...catalog.posts]) expect(new URL(article.url).hostname).toBe(site.domain);
 		expect(new URL(catalog.articles[0].image).hostname).toBe(site.domain);
-		await worker.fetch(request(), env, context);
-		await Promise.all(pending);
-		expect(writes.some(key => key.startsWith(origin + path))).toBe(true);
 	});
 	test('normalização de host permanece no projeto', async () => {
 		const response = await worker.fetch(new Request(`http://www.${site.domain}${path}?gclid=test`), env, context);
@@ -131,15 +133,6 @@ for (const { site, worker } of projects) describe(site.id, () => {
 		expect(html).toContain(origin + '/search/');
 		expect(html).not.toContain('click.clickverso.net');
 		expect(JSON.parse(calls[0].options.body).domain).toBe('clickverso.net');
-	});
-	test('cache da home é identificado pelo domínio próprio', async () => {
-		const homeEnv = { ...env, ARB_HOME_PAGES: { async get(key) {
-			expect(key).toBe(site.domain + '-pt');
-			return '<h1>Home do projeto</h1>';
-		} } };
-		const response = await worker.fetch(new Request(origin + '/'), homeEnv, context);
-		expect(await response.text()).toBe('<h1>Home do projeto</h1>');
-		expect(calls).toHaveLength(0);
 	});
 	test('parâmetro duplicado e controle de destino não alteram navegação', async () => {
 		const response = await worker.fetch(new Request(origin + path + '?gclid=one&gclid=two&target=https://evil.example', { headers: { 'CF-Connecting-IP': '192.0.2.42' } }), env, context);

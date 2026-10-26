@@ -36,7 +36,7 @@ export function publicContentCatalog() {
 		...(entry.source === 'metaoffers' ? { landing_url: `https://${site.domain}/r/${entry.slug}/` } : {}),
 	}));
 	return {
-		domain: site.domain, alias: 'mejorescreditos.org', schema_version: 1,
+		domain: site.domain, alias: site.domain, schema_version: 1,
 		routes: { article: '/e/{slug}/', landing: '/r/{slug}/', post: '/{lang}/p/{slug}/' },
 		langs: [...new Set(articles.map(article => article.lang))].sort(),
 		offers: [...new Set(articles.map(article => article.offer).filter(Boolean))].sort(),

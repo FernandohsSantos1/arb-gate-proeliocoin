@@ -90,8 +90,14 @@ class Home {
 
 			let topPostsHtml = renderTopPosts(homeData.top_posts || [], lang);
 			let categoriesHtml = (homeData.categories || []).map(cat => renderCategory(cat, lang)).join('');
+let popularCategoriesHtml = '';
 
-			let content = `<main class="main-content-area"><div class="container"><div class="row">${topPostsHtml}${categoriesHtml}</div></div></main>`;
+			let content = Template.renderTemplate('home_index', {
+	top_posts: topPostsHtml,
+	categories: categoriesHtml,
+	popular_categories: popularCategoriesHtml,
+	popular_categories_title: 'Categorias Populares',
+});
 
 			let footer = Template.renderTemplate('footer', {
 				sitedomain: constants.DOMAIN,
